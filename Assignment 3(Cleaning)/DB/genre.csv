@@ -1,0 +1,501 @@
+movie_id,movie_title,genre,certification
+25683,Avatar,   Action    Adventure    Fantasy    Science Fiction,PG13
+14531,Pirates of the Caribbean: At World's End,   Adventure    Fantasy    Action,PG13
+18260,Spectre,   Action    Adventure    Crime,PG13
+25056,The Dark Knight Rises,   Action    Crime    Drama    Thriller,PG13
+99197,John Carter,   Action    Adventure    Science Fiction,PG13
+36957,Spider-Man 3,   Fantasy    Action    Adventure,PG13
+88901,Tangled,   Animation    Family,PG
+67895,Avengers: Age of Ultron,   Action    Adventure    Science Fiction,PG13
+91826,Harry Potter and the Half-Blood Prince,   Adventure    Fantasy    Family,PG
+91701,Batman v Superman: Dawn of Justice,   Action    Adventure    Fantasy,PG13
+13736,Superman Returns,   Adventure    Fantasy    Action    Science Fiction,PG13
+14715,Quantum of Solace,   Adventure    Action    Thriller    Crime,PG13
+45746,Pirates of the Caribbean: Dead Man's Chest,   Adventure    Fantasy    Action,PG13
+49061,The Lone Ranger,   Action    Adventure    Western,PG13
+12516,Man of Steel,   Action    Adventure    Fantasy    Science Fiction,PG13
+52526,The Chronicles of Narnia: Prince Caspian,   Adventure    Family    Fantasy,PG
+12900,The Avengers,   Science Fiction    Action    Adventure,PG13
+28995,Pirates of the Caribbean: On Stranger Tides,   Adventure    Action    Fantasy,PG13
+95636,Men in Black 3,   Action    Comedy    Science Fiction,PG13
+45599,The Hobbit: The Battle of the Five Armies,   Action    Adventure    Fantasy,PG13
+82310,The Amazing Spider-Man,   Action    Adventure    Fantasy,PG13
+12298,Robin Hood,   Action    Adventure,PG13
+76013,The Hobbit: The Desolation of Smaug,   Adventure    Fantasy,PG13
+71535,The Golden Compass,   Adventure    Fantasy,PG13
+73688,King Kong,   Adventure    Drama    Action,PG13
+41019,Titanic,   Drama    Romance    Thriller,R
+26043,Captain America: Civil War,   Adventure    Action    Science Fiction,PG13
+84995,Battleship,   Thriller    Action    Adventure    Science Fiction,PG13
+27424,Jurassic World,   Action    Adventure    Science Fiction    Thriller,PG13
+53458,Skyfall,   Action    Adventure    Thriller,PG13
+53670,Spider-Man 2,   Action    Adventure    Fantasy,PG13
+93183,Iron Man 3,   Action    Adventure    Science Fiction,PG13
+90156,Alice in Wonderland,   Family    Fantasy    Adventure,PG13
+85642,X-Men: The Last Stand,   Adventure    Action    Science Fiction    Thriller,PG13
+25461,Monsters University,   Animation    Family,PG
+31799,Transformers: Revenge of the Fallen,   Science Fiction    Action    Adventure,PG13
+11570,Transformers: Age of Extinction,   Science Fiction    Action    Adventure,PG13
+49377,Oz: The Great and Powerful,   Fantasy    Adventure    Family,PG
+32430,The Amazing Spider-Man 2,   Action    Adventure    Fantasy,PG13
+15323,TRON: Legacy,   Adventure    Action    Science Fiction,PG13
+53933,Cars 2,   Animation    Family    Adventure    Comedy,PG
+55758,Green Lantern,   Adventure    Action    Thriller    Science Fiction,PG13
+87107,Toy Story 3,   Animation    Family    Comedy,PG
+45646,Terminator Salvation,   Action    Science Fiction    Thriller,PG13
+93339,Furious 7,   Action,PG13
+92323,World War Z,   Action    Drama    Horror    Science Fiction    Thriller,R
+47055,X-Men: Days of Future Past,   Action    Adventure    Fantasy    Science Fiction,PG13
+87119,Star Trek Into Darkness,   Action    Adventure    Science Fiction,PG13
+16439,Jack the Giant Slayer,   Action    Family    Fantasy,PG
+48595,The Great Gatsby,   Drama    Romance,R
+80601,Prince of Persia: The Sands of Time,   Adventure    Fantasy    Action    Romance,R
+76236,Pacific Rim,   Action    Science Fiction    Adventure,PG13
+55014,Transformers: Dark of the Moon,   Action    Science Fiction    Adventure,PG13
+62964,Indiana Jones and the Kingdom of the Crystal Skull,   Adventure    Action,PG13
+80564,The Good Dinosaur,   Adventure    Animation    Family,PG
+85997,Brave,   Animation    Adventure    Comedy    Family    Action    Fantasy,PG
+97735,Star Trek Beyond,   Action    Adventure    Science Fiction,PG13
+44854,WALL·E,   Animation    Family,PG
+46788,Rush Hour 3,   Action    Comedy    Crime    Thriller,PG13
+41822,2012,   Action    Adventure    Science Fiction,PG13
+51516,A Christmas Carol,   Animation    Drama,PG13
+98760,Jupiter Ascending,   Science Fiction    Fantasy    Action    Adventure,PG13
+64975,The Legend of Tarzan,   Action    Adventure,PG13
+87690,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",   Adventure    Family    Fantasy,PG
+16279,X-Men: Apocalypse,   Science Fiction,PG13
+41096,The Dark Knight,   Drama    Action    Crime    Thriller,PG13
+18747,Up,   Animation    Comedy    Family    Adventure,PG
+83597,Monsters vs Aliens,   Animation    Family    Adventure    Science Fiction,PG13
+53347,Iron Man,   Action    Science Fiction    Adventure,PG13
+34519,Hugo,   Adventure    Drama    Family,PG
+73031,Wild Wild West,   Action    Adventure    Comedy    Science Fiction    Western,R
+89421,The Mummy: Tomb of the Dragon Emperor,   Adventure    Action    Fantasy,PG13
+46879,Suicide Squad,   Action    Adventure    Crime    Fantasy    Science Fiction,PG13
+12096,Evan Almighty,   Fantasy    Comedy    Family,PG
+59638,Edge of Tomorrow,   Action    Science Fiction,PG13
+78260,Waterworld,   Adventure    Action,PG13
+46374,G.I. Joe: The Rise of Cobra,   Adventure    Action    Thriller    Science Fiction,PG13
+91850,Inside Out,   Drama    Comedy    Animation    Family,PG
+24813,The Jungle Book,   Family    Adventure    Drama    Fantasy,PG
+35211,Iron Man 2,   Adventure    Action    Science Fiction,PG13
+91908,Snow White and the Huntsman,   Adventure    Fantasy    Drama,PG13
+79914,Maleficent,   Fantasy    Adventure    Action    Family    Romance,PG
+74657,Dawn of the Planet of the Apes,   Science Fiction    Action    Drama    Thriller,PG13
+13293,The Lovers,   Action    Adventure    Science Fiction    Romance,R
+40186,47 Ronin,   Drama    Action    Adventure    Fantasy,PG13
+49812,Captain America: The Winter Soldier,   Action    Adventure    Science Fiction,PG13
+33248,Shrek Forever After,   Comedy    Adventure    Fantasy    Animation    Family,PG
+36690,Tomorrowland,   Adventure    Family    Mystery    Science Fiction,PG
+61966,Big Hero 6,   Adventure    Family    Animation    Action    Comedy,PG
+44188,Wreck-It Ralph,   Family    Animation    Comedy    Adventure,PG
+43286,The Polar Express,   Adventure    Animation    Family    Fantasy,PG
+96105,Independence Day: Resurgence,   Action    Adventure    Science Fiction,PG13
+25663,How to Train Your Dragon,   Fantasy    Adventure    Animation    Family,PG
+17923,Terminator 3: Rise of the Machines,   Action    Thriller    Science Fiction,PG13
+45769,Guardians of the Galaxy,   Action    Science Fiction    Adventure,PG13
+71713,Interstellar,   Adventure    Drama    Science Fiction,PG13
+73278,Inception,   Action    Thriller    Science Fiction    Mystery    Adventure,PG13
+28163,シン・ゴジラ,   Action    Adventure    Drama    Horror    Science Fiction,R
+95805,The Hobbit: An Unexpected Journey,   Adventure    Fantasy    Action,PG13
+23809,The Fast and the Furious,   Action    Crime    Thriller,PG13
+44586,The Curious Case of Benjamin Button,   Fantasy    Drama    Thriller    Mystery    Romance,R
+88288,X-Men: First Class,   Action    Science Fiction    Adventure,PG13
+39431,The Hunger Games: Mockingjay - Part 2,   Action    Adventure    Science Fiction,PG13
+65303,The Sorcerer's Apprentice,   Fantasy    Adventure    Action    Comedy    Drama,PG13
+58012,Poseidon,   Adventure    Action    Drama    Thriller,PG13
+17205,Alice Through the Looking Glass,   Fantasy,PG13
+58009,Shrek the Third,   Fantasy    Adventure    Animation    Comedy    Family,PG
+62564,Warcraft,   Action    Adventure    Fantasy,PG13
+23035,Terminator Genisys,   Science Fiction    Action    Thriller    Adventure,PG13
+76892,The Chronicles of Narnia: The Voyage of the Dawn Treader,   Adventure    Family    Fantasy,PG13
+93450,Pearl Harbor,   History    Romance    War,R
+35196,Transformers,   Adventure    Science Fiction    Action,PG13
+94806,Alexander,   War    History    Action    Adventure    Drama    Romance,R
+88736,Harry Potter and the Order of the Phoenix,   Adventure    Fantasy    Family    Mystery,PG
+65877,Harry Potter and the Goblet of Fire,   Adventure    Fantasy    Family,PG
+29898,Hancock,   Fantasy    Action,PG13
+20311,I Am Legend,   Drama    Horror    Action    Thriller    Science Fiction,PG13
+53041,Charlie and the Chocolate Factory,   Adventure    Comedy    Family    Fantasy,PG
+40882,Ratatouille,   Animation    Comedy    Family    Fantasy,PG
+95404,Batman Begins,   Action    Crime    Drama,PG13
+33459,Madagascar: Escape 2 Africa,   Family    Animation,PG
+43680,Night at the Museum: Battle of the Smithsonian,   Adventure    Fantasy    Action    Comedy    Family,PG
+51929,X-Men Origins: Wolverine,   Adventure    Action    Thriller    Science Fiction,PG13
+28974,The Matrix Revolutions,   Adventure    Action    Thriller    Science Fiction,PG13
+56228,Frozen,   Animation    Adventure    Family,PG
+66994,The Matrix Reloaded,   Adventure    Action    Thriller    Science Fiction,PG13
+23418,Thor: The Dark World,   Action    Adventure    Fantasy,PG13
+44525,Mad Max: Fury Road,   Action    Adventure    Science Fiction    Thriller,PG13
+32198,Angels & Demons,   Thriller    Mystery,PG13
+16146,Thor,   Adventure    Fantasy    Action,PG13
+16110,Bolt,   Animation    Family    Adventure    Comedy,PG13
+50405,G-Force,   Fantasy    Action    Adventure    Family    Comedy,PG
+35171,Wrath of the Titans,   Adventure,PG13
+85876,Dark Shadows,   Comedy    Fantasy,PG13
+95463,Mission: Impossible - Rogue Nation,   Action    Adventure    Thriller,PG13
+65539,The Wolfman,   Drama    Horror    Thriller,R
+92582,Bee Movie,   Family    Animation    Adventure    Comedy,PG13
+15862,Kung Fu Panda 2,   Animation    Family,PG
+82946,The Last Airbender,   Action    Adventure    Family    Fantasy,PG
+23937,Mission: Impossible III,   Adventure    Action    Thriller,PG13
+40889,White House Down,   Action    Drama    Thriller,PG13
+14601,Mars Needs Moms,   Adventure    Animation    Family,PG
+68136,Flushed Away,   Adventure    Animation    Comedy    Family,PG
+86050,Pan,   Adventure    Family    Fantasy,PG
+77113,Mr. Peabody & Sherman,   Animation    Adventure    Family,PG
+24548,Troy,   Adventure    Drama    War,PG13
+80037,Madagascar 3: Europe's Most Wanted,   Animation    Family,PG
+57823,Die Another Day,   Adventure    Action    Thriller,PG13
+53756,Ghostbusters,   Action    Fantasy    Comedy,PG13
+56314,Armageddon,   Action    Thriller    Science Fiction    Adventure,PG13
+94910,Men in Black II,   Action    Adventure    Comedy    Science Fiction,PG13
+81258,Beowulf,   Adventure    Action    Animation,PG13
+27967,Kung Fu Panda 3,   Action    Adventure    Animation    Comedy    Family,PG
+67392,Mission: Impossible - Ghost Protocol,   Action    Thriller    Adventure,PG13
+84069,Rise of the Guardians,   Fantasy    Animation    Family,PG
+92636,Fun with Dick and Jane,   Comedy,PG13
+31118,The Last Samurai,   Drama    Action    War    History,PG13
+89097,Exodus: Gods and Kings,   Adventure    Drama    Action,PG13
+33987,Star Trek,   Science Fiction    Action    Adventure,PG13
+68633,Spider-Man,   Fantasy    Action,PG13
+94120,How to Train Your Dragon 2,   Fantasy    Action    Adventure    Animation    Comedy    Family,PG
+58610,Gods of Egypt,   Fantasy,PG13
+24969,Stealth,   Action,PG13
+85145,Watchmen,   Action    Mystery    Science Fiction,PG13
+69139,Lethal Weapon 4,   Action    Adventure    Comedy    Crime    Thriller,PG13
+46783,Hulk,   Drama    Action    Science Fiction,PG13
+89112,G.I. Joe: Retaliation,   Adventure    Action    Science Fiction    Thriller,PG13
+76565,Sahara,   Action    Adventure    Comedy    Drama    Mystery,PG13
+18619,Final Fantasy: The Spirits Within,   Adventure    Action    Animation    Fantasy    Science Fiction    Thriller,PG13
+42253,Captain America: The First Avenger,   Action    Adventure    Science Fiction,PG13
+16605,The World Is Not Enough,   Adventure    Action    Thriller,PG13
+82324,Master and Commander: The Far Side of the World,   Adventure,PG13
+31206,The Twilight Saga: Breaking Dawn - Part 2,   Adventure    Fantasy    Drama    Romance,R
+25051,Happy Feet Two,   Animation    Comedy    Family,PG13
+97256,The Incredible Hulk,   Science Fiction    Action    Adventure,PG13
+35967,The BFG,   Adventure    Family    Fantasy,PG13
+26617,The Revenant,   Western    Drama    Adventure    Thriller,PG13
+49448,Turbo,   Animation    Family,PG
+82434,Rango,   Animation    Comedy    Family    Western    Adventure,PG
+12224,Penguins of Madagascar,   Family    Animation    Adventure    Comedy,PG
+94640,The Bourne Ultimatum,   Action    Drama    Mystery    Thriller,PG13
+11773,Kung Fu Panda,   Adventure    Animation    Family    Comedy,PG
+98229,Ant-Man,   Science Fiction    Action    Adventure,PG13
+99327,The Hunger Games: Catching Fire,   Adventure    Action    Science Fiction,PG13
+88131,Home,   Fantasy    Comedy    Animation    Science Fiction    Family,PG
+59917,War of the Worlds,   Adventure    Thriller    Science Fiction,PG13
+11178,Bad Boys II,   Adventure    Action    Comedy    Thriller    Crime,PG13
+18451,Puss in Boots,   Action    Adventure    Animation    Family    Fantasy,PG
+45213,Salt,   Action    Mystery    Thriller,PG13
+51676,Noah,   Drama    Adventure,PG13
+43503,The Adventures of Tintin,   Adventure    Animation    Mystery,PG13
+47296,Harry Potter and the Prisoner of Azkaban,   Adventure    Fantasy    Family,PG
+62814,Australia,   Drama,PG13
+44522,After Earth,   Science Fiction    Action    Adventure,PG13
+99794,Dinosaur,   Animation    Family,PG
+53876,Night at the Museum: Secret of the Tomb,   Adventure    Comedy    Fantasy    Family,PG
+60109,Megamind,   Animation    Action    Comedy    Family    Science Fiction,PG
+77606,Harry Potter and the Philosopher's Stone,   Adventure    Fantasy    Family,PG
+79335,R.I.P.D.,   Fantasy    Action    Comedy    Crime,PG13
+20641,Pirates of the Caribbean: The Curse of the Black Pearl,   Adventure    Fantasy    Action,PG13
+56261,The Hunger Games: Mockingjay - Part 1,   Science Fiction    Adventure    Thriller,PG13
+87771,The Da Vinci Code,   Thriller    Mystery,PG13
+96615,Rio 2,   Animation    Adventure    Comedy    Family,PG
+49186,X2,   Adventure    Action    Science Fiction    Thriller,PG13
+53282,Fast Five,   Action    Thriller    Crime,PG13
+85142,Sherlock Holmes: A Game of Shadows,   Adventure    Action    Crime    Mystery,PG13
+17017,Clash of the Titans,   Adventure    Fantasy    Action,PG13
+37650,Total Recall,   Action    Adventure    Science Fiction,PG13
+72902,The 13th Warrior,   Adventure    Fantasy    Action,PG13
+78160,The Bourne Legacy,   Action    Thriller,PG13
+79712,Batman & Robin,   Action    Crime    Fantasy,PG13
+38601,How the Grinch Stole Christmas,   Family    Comedy    Fantasy,PG13
+12720,The Day After Tomorrow,   Action    Adventure    Science Fiction    Thriller,PG13
+16171,Mission: Impossible II,   Adventure    Action    Thriller,PG13
+92009,The Perfect Storm,   Drama,PG13
+45936,4: Rise of the Silver Surfer,   Adventure    Fantasy    Action    Thriller,PG13
+28356,Life of Pi,   Adventure    Drama    Action,PG13
+76398,Ghost Rider,   Thriller    Action    Fantasy    Horror,PG13
+94442,Jason Bourne,   Action    Thriller,PG13
+91673,Charlie's Angels: Full Throttle,   Action    Adventure    Comedy,PG13
+48027,Prometheus,   Science Fiction    Adventure    Mystery,PG13
+72619,Stuart Little 2,   Family    Adventure    Animation    Comedy,PG
+69223,Elysium,   Science Fiction    Action    Drama    Thriller,PG13
+57597,The Chronicles of Riddick,   Action    Science Fiction,PG13
+50730,RoboCop,   Action    Science Fiction,PG13
+93815,Speed Racer,   Action    Family    Science Fiction,PG13
+18581,How Do You Know,   Comedy    Drama    Romance,R
+11271,Knight and Day,   Action    Comedy,PG13
+44500,Oblivion,   Action    Science Fiction    Adventure    Mystery,PG13
+70394,Star Wars: Episode III - Revenge of the Sith,   Science Fiction    Adventure    Action,PG13
+85111,Star Wars: Episode II - Attack of the Clones,   Adventure    Action    Science Fiction,PG13
+27813,"Monsters, Inc.",   Animation    Comedy    Family,PG
+44846,The Wolverine,   Action    Science Fiction    Adventure    Fantasy,PG13
+79922,Star Wars: Episode I - The Phantom Menace,   Adventure    Action    Science Fiction,PG13
+79012,The Croods,   Adventure    Animation    Comedy    Family    Fantasy,PG
+24473,Astérix aux Jeux Olympiques,   Fantasy    Adventure    Comedy    Family,PG
+86541,Windtalkers,   Drama    Action    History    War,PG13
+21395,The Huntsman: Winter's War,   Action    Adventure    Drama,PG13
+61601,Teenage Mutant Ninja Turtles,   Science Fiction    Action    Adventure    Fantasy    Comedy,PG13
+48054,Gravity,   Science Fiction    Thriller    Drama,PG13
+93336,Dante's Peak,   Action    Adventure    Thriller,PG13
+51389,Teenage Mutant Ninja Turtles: Out of the Shadows,   Fantasy    Action    Adventure    Comedy,PG13
+66126,Fantastic Four,   Action    Adventure    Science Fiction,PG13
+70876,Night at the Museum,   Action    Adventure    Comedy    Family    Fantasy,PG
+79932,San Andreas,   Action    Drama    Thriller,PG13
+64774,Tomorrow Never Dies,   Adventure    Action    Thriller,PG13
+60297,The Patriot,   Drama    History    War    Action,PG13
+25066,Ocean's Twelve,   Thriller    Crime,PG13
+90803,Mr. & Mrs. Smith,   Action    Comedy    Drama    Thriller,PG13
+50318,Insurgent,   Adventure    Science Fiction    Thriller,PG13
+25479,The Aviator,   Drama,PG13
+26184,Gulliver's Travels,   Comedy,PG13
+46918,The Green Hornet,   Action    Crime    Comedy,PG13
+24169,300: Rise of an Empire,   Action    War,PG13
+56458,The Smurfs,   Animation    Family    Adventure    Comedy    Fantasy,PG
+83516,Home on the Range,   Animation    Family,PG
+51653,Allegiant,   Adventure    Science Fiction,PG13
+86300,Real Steel,   Action    Science Fiction    Drama,PG13
+72857,The Smurfs 2,   Fantasy    Family    Comedy    Animation,PG
+21128,Speed 2: Cruise Control,   Action    Adventure    Thriller,PG13
+12512,Ender's Game,   Science Fiction    Action    Adventure,PG13
+45441,Live Free or Die Hard,   Action    Thriller,PG13
+34484,The Lord of the Rings: The Fellowship of the Ring,   Adventure    Fantasy    Action,PG13
+18990,Around the World in 80 Days,   Action    Adventure    Comedy,PG13
+65576,Ali,   Drama,PG13
+61231,The Cat in the Hat,   Comedy    Fantasy    Family,PG
+23396,"I, Robot",   Action    Science Fiction,PG13
+38021,Kingdom of Heaven,   Drama    Action    Adventure    History    War,PG13
+22632,Stuart Little,   Animation    Fantasy    Family    Comedy,PG
+58307,The Princess and the Frog,   Romance    Family    Animation    Music,PG
+84430,The Martian,   Drama    Adventure    Science Fiction,PG13
+61452,The Island,   Action    Thriller    Science Fiction    Adventure,PG13
+52397,Town & Country,   Comedy    Romance,R
+53612,Gone in Sixty Seconds,   Action    Crime    Thriller,PG13
+80925,Gladiator,   Action    Drama    Adventure,PG13
+33905,Minority Report,   Action    Thriller    Science Fiction    Mystery,PG13
+56936,Harry Potter and the Chamber of Secrets,   Adventure    Fantasy    Family,PG
+94161,Casino Royale,   Adventure    Action    Thriller,PG13
+23505,Planet of the Apes,   Thriller    Science Fiction    Action    Adventure,PG13
+75874,Terminator 2: Judgment Day,   Action    Thriller    Science Fiction,PG13
+23599,Public Enemies,   History    Crime    Drama,PG13
+27971,American Gangster,   Drama    Crime,PG13
+33716,True Lies,   Action    Thriller,PG13
+83683,The Taking of Pelham 1 2 3,   Thriller    Drama    Crime,PG13
+65856,Little Fockers,   Comedy    Romance,R
+47939,The Other Guys,   Action    Comedy    Crime,PG13
+44283,Eraser,   Action    Drama    Mystery    Thriller,PG13
+37892,Django Unchained,   Drama    Western,R
+68915,The Hunchback of Notre Dame,   Drama    Animation    Family,PG
+12792,The Emperor's New Groove,   Adventure    Animation    Comedy    Family    Fantasy,PG
+25047,The Expendables 2,   Action    Adventure    Thriller,PG13
+58880,National Treasure,   Adventure    Action    Thriller    Mystery,PG13
+28014,Eragon,   Fantasy    Action    Adventure    Family,PG13
+71863,Where the Wild Things Are,   Family    Fantasy,PG
+91383,Epic,   Animation    Adventure    Family    Fantasy,PG
+22343,The Tourist,   Action    Thriller    Romance,R
+19724,End of Days,   Action    Fantasy    Horror    Mystery,PG13
+34814,Blood Diamond,   Drama    Thriller    Action,PG13
+33641,The Wolf of Wall Street,   Crime    Drama    Comedy,PG13
+68742,Batman Forever,   Action    Crime    Fantasy,PG13
+35313,Starship Troopers,   Adventure    Action    Thriller    Science Fiction,PG13
+55583,Cloud Atlas,   Drama    Science Fiction,PG13
+46107,Legend of the Guardians: The Owls of Ga'Hoole,   Animation    Adventure    Family    Fantasy,PG
+98073,Catwoman,   Action    Crime,PG13
+96548,Hercules,   Action    Adventure,PG13
+97540,Treasure Planet,   Adventure    Animation    Family    Fantasy    Science Fiction,PG
+21279,Land of the Lost,   Adventure    Comedy    Science Fiction,PG13
+68217,The Expendables 3,   Action    Adventure    Thriller,PG13
+79664,Point Break,   Action    Crime    Thriller,PG13
+47236,Son of the Mask,   Fantasy    Comedy    Family    Adventure,PG
+65233,In the Heart of the Sea,   Thriller    Drama    Adventure    Action    History,PG13
+11318,The Adventures of Pluto Nash,   Action    Comedy    Science Fiction,PG13
+47941,Green Zone,   War    Action    Adventure    Drama    Thriller,PG13
+69580,The Peanuts Movie,   Animation,PG13
+60431,The Spanish Prisoner,   Crime    Drama    Mystery    Thriller,PG13
+81757,The Mummy Returns,   Adventure    Action    Fantasy,PG13
+37520,Gangs of New York,   Drama    History    Crime,PG13
+25485,金陵十三釵,   Drama    History    War,PG13
+86809,Surf's Up,   Animation    Comedy    Family,PG
+73276,The Stepford Wives,   Action    Comedy    Science Fiction,PG13
+88055,Black Hawk Down,   Action    History    War,PG13
+81793,The Campaign,   Comedy,PG13
+43637,The Fifth Element,   Adventure    Fantasy    Action    Thriller    Science Fiction,PG13
+25229,Sex and the City 2,   Comedy    Drama    Romance,R
+15080,The Road to El Dorado,   Adventure    Animation    Comedy    Family,PG
+32610,Ice Age: Continental Drift,   Animation    Comedy    Adventure    Family,PG
+26896,Cinderella,   Romance    Fantasy    Family    Drama,PG13
+67497,The Lovely Bones,   Fantasy    Drama,PG13
+29072,Finding Nemo,   Animation    Family,PG13
+98843,The Lord of the Rings: The Return of the King,   Adventure    Fantasy    Action,PG13
+20832,The Lord of the Rings: The Two Towers,   Adventure    Fantasy    Action,PG13
+86026,Seventh Son,   Adventure    Fantasy,PG13
+83659,Lara Croft: Tomb Raider,   Adventure    Fantasy    Action    Thriller,PG13
+12049,Transcendence,   Thriller    Science Fiction    Drama    Mystery,PG13
+80119,Jurassic Park III,   Adventure    Action    Thriller    Science Fiction,PG13
+37168,Rise of the Planet of the Apes,   Thriller    Action    Drama    Science Fiction,PG13
+49119,The Spiderwick Chronicles,   Adventure    Family    Fantasy,PG
+19693,A Good Day to Die Hard,   Action    Thriller,PG13
+99668,The Alamo,   Western    History    War,PG13
+65873,The Incredibles,   Action    Adventure    Animation    Family,PG13
+56974,Cutthroat Island,   Action    Adventure,PG13
+49360,Percy Jackson & the Olympians: The Lightning Thief,   Adventure    Fantasy    Family,PG
+25758,Men in Black,   Action    Adventure    Comedy    Science Fiction,PG13
+79011,Toy Story 2,   Animation    Comedy    Family,PG
+69635,Unstoppable,   Action    Thriller,PG13
+83766,Rush Hour 2,   Action    Comedy    Crime    Thriller,PG13
+21691,What Lies Beneath,   Drama    Horror    Mystery    Thriller,PG13
+24175,Cloudy with a Chance of Meatballs,   Animation    Comedy    Family,PG
+73184,Ice Age: Dawn of the Dinosaurs,   Animation    Comedy    Family    Adventure,PG
+48877,The Secret Life of Walter Mitty,   Adventure    Comedy    Drama    Fantasy,PG13
+18887,Charlie's Angels,   Action    Adventure    Comedy    Crime    Thriller,PG13
+26110,The Departed,   Drama    Thriller    Crime,PG13
+71690,Mulan,   Animation    Family    Adventure,PG
+48400,Tropic Thunder,   Action    Comedy,PG13
+60550,The Girl with the Dragon Tattoo,   Thriller    Crime    Mystery    Drama,PG13
+48662,Die Hard: With a Vengeance,   Action    Thriller,PG13
+11210,Sherlock Holmes,   Action    Adventure    Crime    Mystery,PG13
+33929,Ben-Hur,   Drama,PG13
+34974,Atlantis: The Lost Empire,   Animation    Family    Adventure    Science Fiction,PG
+13043,Alvin and the Chipmunks: The Road Chip,   Adventure    Animation    Comedy    Family,PG
+58562,Valkyrie,   Drama    Thriller    History    War,PG13
+69893,You Don't Mess with the Zohan,   Comedy    Action,PG13
+21750,Pixels,   Action    Comedy    Science Fiction,PG13
+24486,A.I. Artificial Intelligence,   Drama    Science Fiction    Adventure,PG13
+59720,The Haunted Mansion,   Thriller    Fantasy    Comedy    Family    Mystery,PG
+58444,Contact,   Drama    Science Fiction    Mystery,PG13
+47446,Hollow Man,   Action    Science Fiction    Thriller,PG13
+94528,The Interpreter,   Crime    Thriller,PG13
+82961,Percy Jackson: Sea of Monsters,   Adventure    Family    Fantasy,PG
+20418,Lara Croft Tomb Raider: The Cradle of Life,   Action    Adventure    Fantasy    Thriller,PG13
+79026,Now You See Me 2,   Action    Adventure    Comedy    Crime    Mystery    Thriller,PG13
+28527,The Saint,   Thriller    Action    Romance    Science Fiction    Adventure,PG13
+68305,Spy Game,   Action    Crime    Thriller,PG13
+73368,Mission to Mars,   Science Fiction,PG13
+17748,Rio,   Animation    Adventure    Comedy    Family,PG
+44291,Bicentennial Man,   Comedy    Science Fiction,PG13
+68425,Volcano,   Science Fiction    Action    Drama    Thriller,PG13
+39786,The Devil's Own,   Crime    Thriller    Drama,PG13
+93507,K-19: The Widowmaker,   Drama    History    Thriller,PG13
+42298,Conan the Barbarian,   Adventure    Fantasy    Action,PG13
+43699,Cinderella Man,   Romance    Drama    History,R
+24611,The Nutcracker: The Untold Story,   Fantasy    Action    Family,PG
+44050,Seabiscuit,   Drama    History,PG13
+38693,Twister,   Action    Adventure    Drama,PG13
+65513,Cast Away,   Adventure    Drama,PG13
+76546,Happy Feet,   Animation    Comedy,PG13
+39637,The Bourne Supremacy,   Action    Drama    Thriller,PG13
+99081,Air Force One,   Action    Thriller,PG13
+87201,Ocean's Eleven,   Thriller    Crime,PG13
+37052,The Three Musketeers,   Adventure    Action    Thriller,PG13
+59259,Hotel Transylvania,   Animation    Comedy    Family    Fantasy,PG
+18502,Enchanted,   Comedy    Family    Fantasy    Romance,PG
+94514,Safe House,   Action    Thriller,PG13
+17405,102 Dalmatians,   Comedy    Family,PG13
+95146,Tower Heist,   Action    Comedy,PG13
+47582,The Holiday,   Comedy    Romance,R
+47286,Enemy of the State,   Action    Drama    Thriller,PG13
+27994,It's Complicated,   Comedy    Romance,R
+91156,Ocean's Thirteen,   Crime    Thriller,PG13
+77783,Open Season,   Adventure    Animation    Family,PG
+81991,Divergent,   Adventure    Action    Science Fiction,PG13
+70570,Enemy at the Gates,   War,PG13
+41241,The Rundown,   Adventure    Action    Comedy    Thriller,PG13
+92177,Last Action Hero,   Adventure    Fantasy    Action    Comedy    Family,PG
+72450,Memoirs of a Geisha,   Drama    History    Romance,R
+71252,The Fast and the Furious: Tokyo Drift,   Action    Crime    Drama    Thriller,PG13
+75303,Arthur Christmas,   Drama    Animation    Family    Comedy,PG
+73296,Meet Joe Black,   Fantasy    Drama    Mystery,PG13
+65092,Collateral Damage,   Action    Thriller    Drama,PG13
+24215,All That Jazz,   Drama    Music,PG13
+41432,Mirror Mirror,   Adventure    Fantasy    Drama    Comedy    Science Fiction    Family,PG
+92036,Scott Pilgrim vs. the World,   Action    Adventure    Comedy,PG13
+71597,The Core,   Action    Thriller    Adventure    Science Fiction,PG13
+99730,Nutty Professor II: The Klumps,   Fantasy    Comedy    Romance    Science Fiction,R
+11331,Scooby-Doo,   Mystery    Adventure    Comedy,PG13
+47807,Dredd,   Action    Science Fiction,PG13
+59831,Click,   Comedy    Drama    Fantasy    Romance,R
+23458,Creepshow,   Horror    Comedy    Fantasy,PG13
+89610,Cats & Dogs 2 : The Revenge of Kitty Galore,   Comedy    Family,PG
+68093,Jumper,   Adventure    Fantasy    Science Fiction,PG13
+22583,Hellboy II: The Golden Army,   Adventure    Fantasy    Science Fiction,PG13
+45431,Zodiac,   Crime    Drama    Mystery    Thriller,PG13
+31018,The 6th Day,   Science Fiction,PG13
+60729,Bruce Almighty,   Fantasy    Comedy,PG13
+78388,The Expendables,   Thriller    Adventure    Action,PG13
+20371,Mission: Impossible,   Adventure    Action    Thriller,PG13
+62446,The Hunger Games,   Science Fiction    Adventure    Fantasy,PG13
+33471,The Hangover Part II,   Comedy,PG13
+69545,Batman Returns,   Action    Fantasy,PG13
+26983,Over the Hedge,   Comedy    Animation    Family,PG
+57674,Lilo & Stitch,   Animation    Family,PG
+86138,Charlotte's Web,   Comedy    Family    Fantasy,PG
+91627,Deep Impact,   Action    Drama    Romance,R
+51530,RED 2,   Action    Comedy    Crime    Thriller,PG13
+22306,The Longest Yard,   Comedy    Drama,PG13
+40784,Alvin and the Chipmunks: Chipwrecked,   Comedy    Fantasy    Family    Music    Animation,PG
+82982,Grown Ups 2,   Comedy,PG13
+39179,Get Smart,   Action    Comedy    Thriller,PG13
+91893,Something's Gotta Give,   Drama    Comedy    Romance,R
+38257,Shutter Island,   Drama    Thriller    Mystery,PG13
+21885,Four Christmases,   Comedy    Romance    Drama,R
+53187,Robots,   Animation    Comedy    Family    Science Fiction,PG
+83501,Face/Off,   Action    Crime    Science Fiction    Thriller,PG13
+28592,Bedtime Stories,   Fantasy    Comedy    Family    Romance,PG
+67638,Road to Perdition,   Thriller    Crime    Drama,PG13
+43514,Just Go with It,   Romance    Comedy,R
+47642,Con Air,   Action    Thriller    Crime,PG13
+95571,Eagle Eye,   Mystery    Thriller    Action,PG13
+51114,Cold Mountain,   Drama,PG13
+79677,The Book of Eli,   Action    Thriller    Science Fiction,PG13
+65864,Flubber,   Comedy    Family    Science Fiction,PG13
+49312,The Haunting,   Horror    Thriller    Fantasy    Mystery,PG13
+69944,Space Jam,   Animation    Comedy    Drama    Family    Fantasy,PG
+47536,The Pink Panther,   Action    Comedy    Crime    Mystery    Family,PG13
+40408,The Day the Earth Stood Still,   Drama    Science Fiction    Thriller,PG13
+94768,Conspiracy Theory,   Action    Drama    Mystery    Thriller,PG13
+40555,Fury,   War    Drama    Action,PG13
+35128,Six Days Seven Nights,   Action    Adventure    Comedy    Romance,R
+70690,Yogi Bear,   Comedy    Family    Animation    Adventure,PG
+60862,Spirit: Stallion of the Cimarron,   Western    Animation    Adventure    Comedy    Family,PG
+36742,Zookeeper,   Comedy    Romance    Family,R
+49773,Lost in Space,   Adventure    Family    Science Fiction,PG
+95829,The Manchurian Candidate,   Drama    Thriller    Mystery,PG13
+76780,Déjà Vu,   Romance    Drama,R
+80335,Hotel Transylvania 2,   Animation    Comedy    Family,PG
+95225,Fantasia 2000,   Animation    Family    Music,PG
+25252,The Time Machine,   Science Fiction    Adventure    Action,PG13
+86573,Mighty Joe Young,   Action    Adventure    Family    Fantasy,PG
+99251,Swordfish,   Action    Crime    Thriller,PG13
+15842,The Legend of Zorro,   Action    Adventure,PG13
+47180,What Dreams May Come,   Drama    Fantasy    Romance,R
+89463,Little Nicky,   Comedy    Fantasy    Romance,R
+31847,The Brothers Grimm,   Adventure    Fantasy    Action    Comedy    Thriller,PG13
+84637,Mars Attacks!,   Comedy    Fantasy    Science Fiction,PG13
+86492,Évolution,   Mystery    Drama    Horror,PG13
+58976,The Edge,   Action    Adventure    Drama,PG13
+89574,Surrogates,   Action    Science Fiction    Thriller,PG13
+73606,Thirteen Days,   Drama    Thriller,PG13
+56821,Daylight,   Action    Adventure    Thriller,PG13
+40288,Walking With Dinosaurs,   Animation    Family    Adventure,PG13
+36874,Battlefield Earth,   Action    Science Fiction    War,PG13
+97963,Looney Tunes: Back in Action,   Animation    Comedy    Family,PG
+83413,Nine,   Drama    Music    Romance,R
+18648,Timeline,   Action    Adventure    Science Fiction,PG13
+52587,The Postman,   Drama    Adventure,PG13
+70759,Babe: Pig in the City,   Adventure    Comedy    Drama    Family    Fantasy,PG
+85522,The Last Witch Hunter,   Fantasy    Action    Adventure,PG13
+59142,Red Planet,   Thriller    Action    Science Fiction,PG13
+78506,Arthur et les Minimoys,   Adventure    Fantasy    Animation    Family,PG
+52043,Oceans,   Documentary    Family,PG
+22128,A Sound of Thunder,   Thriller    Science Fiction    Adventure    Action,PG13
+28197,Pompeii,   Action    Adventure    History    Romance    Drama,R
+71606,Don Gato: El inicio de la pandilla,   Comedy    Animation,PG
+60486,A Beautiful Mind,   Drama    Romance,R
+33672,The Lion King,   Family    Animation    Drama,PG
+75730,Journey 2: The Mysterious Island,   Adventure    Action    Science Fiction,PG
+78945,Cloudy with a Chance of Meatballs 2,   Animation    Family    Comedy,PG13
+57476,Red Dragon,   Crime    Thriller    Horror,PG13
+55309,Hidalgo,   Western    Adventure,PG13
+72551,Jack and Jill,   Comedy,PG13

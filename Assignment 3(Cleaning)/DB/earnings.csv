@@ -1,0 +1,501 @@
+movie_id,movie_title,opening,gross,votes
+25683,Avatar,Blockbluster,2787965087,11800
+14531,Pirates of the Caribbean: At World's End,Blockbluster,961000000,4500
+18260,Spectre,Flop,880674609,4466
+25056,The Dark Knight Rises,Blockbluster,1084939099,9106
+99197,John Carter,Flop,284139100,2124
+36957,Spider-Man 3,Blockbluster,890871626,3576
+88901,Tangled,Flop,591794936,3330
+67895,Avengers: Age of Ultron,Blockbluster,1405403694,6767
+91826,Harry Potter and the Half-Blood Prince,Blockbluster,933959197,5293
+91701,Batman v Superman: Dawn of Justice,Flop,873260194,7004
+13736,Superman Returns,Flop,391081192,1400
+14715,Quantum of Solace,Flop,586090727,2965
+45746,Pirates of the Caribbean: Dead Man's Chest,Blockbluster,1065659812,5246
+49061,The Lone Ranger,Flop,89289910,2311
+12516,Man of Steel,Flop,662845518,6359
+52526,The Chronicles of Narnia: Prince Caspian,Blockbluster,419651413,1630
+12900,The Avengers,Blockbluster,1519557910,11776
+28995,Pirates of the Caribbean: On Stranger Tides,Blockbluster,1045713802,4948
+95636,Men in Black 3,Blockbluster,624026776,4160
+45599,The Hobbit: The Battle of the Five Armies,Flop,956019788,4760
+82310,The Amazing Spider-Man,Blockbluster,752215857,6586
+12298,Robin Hood,Flop,310669540,1398
+76013,The Hobbit: The Desolation of Smaug,Flop,958400000,4524
+71535,The Golden Compass,Blockbluster,372234864,1303
+73688,King Kong,Blockbluster,550000000,2337
+41019,Titanic,Blockbluster,1845034188,7562
+26043,Captain America: Civil War,Blockbluster,1153304495,7241
+84995,Battleship,Flop,303025485,2114
+27424,Jurassic World,Flop,1513528810,8662
+53458,Skyfall,Flop,1108561013,7604
+53670,Spider-Man 2,Blockbluster,783766341,4321
+93183,Iron Man 3,Blockbluster,1215439994,8806
+90156,Alice in Wonderland,Flop,1025491110,4645
+85642,X-Men: The Last Stand,Blockbluster,459359555,3525
+25461,Monsters University,Flop,743559607,3528
+31799,Transformers: Revenge of the Fallen,Flop,836297228,3138
+11570,Transformers: Age of Extinction,Blockbluster,1091405097,3095
+49377,Oz: The Great and Powerful,Flop,491868548,3530
+32430,The Amazing Spider-Man 2,Blockbluster,705717432,4179
+15323,TRON: Legacy,Flop,400062763,2841
+53933,Cars 2,Flop,559852396,2033
+55758,Green Lantern,Flop,219851172,2487
+87107,Toy Story 3,Blockbluster,1066969703,4597
+45646,Terminator Salvation,Blockbluster,371353001,2463
+93339,Furious 7,Blockbluster,1506249360,4176
+92323,World War Z,Blockbluster,531865000,5560
+47055,X-Men: Days of Future Past,Blockbluster,747862775,6032
+87119,Star Trek Into Darkness,Blockbluster,467365246,4418
+16439,Jack the Giant Slayer,Blockbluster,197687603,2598
+48595,The Great Gatsby,Blockbluster,351040419,3769
+80601,Prince of Persia: The Sands of Time,Blockbluster,335154643,2317
+76236,Pacific Rim,Blockbluster,407602906,4794
+55014,Transformers: Dark of the Moon,Blockbluster,1123746996,3299
+62964,Indiana Jones and the Kingdom of the Crystal Skull,Blockbluster,786636033,2495
+80564,The Good Dinosaur,Blockbluster,331926147,1736
+85997,Brave,Blockbluster,538983207,4641
+97735,Star Trek Beyond,Blockbluster,343471816,2568
+44854,WALL·E,Blockbluster,521311860,6296
+46788,Rush Hour 3,Blockbluster,258022233,783
+41822,2012,Blockbluster,769653595,4903
+51516,A Christmas Carol,Blockbluster,325233863,1095
+98760,Jupiter Ascending,Blockbluster,183987723,2768
+64975,The Legend of Tarzan,Blockbluster,356743061,2430
+87690,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Blockbluster,748806957,2629
+16279,X-Men: Apocalypse,Blockbluster,543934787,4721
+41096,The Dark Knight,Blockbluster,1004558444,12002
+18747,Up,Blockbluster,735099082,6870
+83597,Monsters vs Aliens,Blockbluster,381509870,1423
+53347,Iron Man,Blockbluster,585174222,8776
+34519,Hugo,Flop,185770160,2141
+73031,Wild Wild West,Blockbluster,222104681,1020
+89421,The Mummy: Tomb of the Dragon Emperor,Blockbluster,401128639,1387
+46879,Suicide Squad,Blockbluster,745000000,7458
+12096,Evan Almighty,Blockbluster,173000000,1151
+59638,Edge of Tomorrow,Blockbluster,370541256,4858
+78260,Waterworld,Blockbluster,264218220,992
+46374,G.I. Joe: The Rise of Cobra,Blockbluster,302469017,1962
+91850,Inside Out,Blockbluster,857611174,6560
+24813,The Jungle Book,Blockbluster,966550600,2892
+35211,Iron Man 2,Blockbluster,623933331,6849
+91908,Snow White and the Huntsman,Blockbluster,396600000,3118
+79914,Maleficent,Blockbluster,758539785,4496
+74657,Dawn of the Planet of the Apes,Blockbluster,710644566,4410
+13293,The Lovers,Flop,0,34
+40186,47 Ronin,Blockbluster,150962475,1326
+49812,Captain America: The Winter Soldier,Blockbluster,714766572,5764
+33248,Shrek Forever After,Blockbluster,752600867,1959
+36690,Tomorrowland,Blockbluster,209154322,2846
+61966,Big Hero 6,Blockbluster,652105443,6135
+44188,Wreck-It Ralph,Blockbluster,471222889,4570
+43286,The Polar Express,Blockbluster,305875730,1474
+96105,Independence Day: Resurgence,Blockbluster,389681935,2491
+25663,How to Train Your Dragon,Blockbluster,494878759,4227
+17923,Terminator 3: Rise of the Machines,Blockbluster,435000000,2143
+45769,Guardians of the Galaxy,Blockbluster,773328629,9742
+71713,Interstellar,Blockbluster,675120017,10867
+73278,Inception,Blockbluster,825532764,13752
+28163,シン・ゴジラ,Flop,77000000,143
+95805,The Hobbit: An Unexpected Journey,Blockbluster,1021103568,8297
+23809,The Fast and the Furious,Blockbluster,207283925,3428
+44586,The Curious Case of Benjamin Button,Blockbluster,333932083,3292
+88288,X-Men: First Class,Blockbluster,353624124,5181
+39431,The Hunger Games: Mockingjay - Part 2,Blockbluster,653428261,3984
+65303,The Sorcerer's Apprentice,Flop,215283742,1470
+58012,Poseidon,Flop,181674817,583
+17205,Alice Through the Looking Glass,Flop,299370084,1725
+58009,Shrek the Third,Flop,798958165,2278
+62564,Warcraft,Flop,433677183,2268
+23035,Terminator Genisys,Flop,440603537,3631
+76892,The Chronicles of Narnia: The Voyage of the Dawn Treader,Flop,415686217,1514
+93450,Pearl Harbor,Flop,449220945,1791
+35196,Transformers,Flop,709709780,4040
+94806,Alexander,Flop,167298192,927
+88736,Harry Potter and the Order of the Phoenix,Flop,938212738,5494
+65877,Harry Potter and the Goblet of Fire,Blockbluster,895921036,5608
+29898,Hancock,Blockbluster,624029371,2961
+20311,I Am Legend,Blockbluster,585349010,4853
+53041,Charlie and the Chocolate Factory,Blockbluster,474968763,3624
+40882,Ratatouille,Blockbluster,623722818,4369
+95404,Batman Begins,Blockbluster,374218673,7359
+33459,Madagascar: Escape 2 Africa,Blockbluster,603900354,1810
+43680,Night at the Museum: Battle of the Smithsonian,Blockbluster,413106170,1971
+51929,X-Men Origins: Wolverine,Blockbluster,373062864,4021
+28974,The Matrix Revolutions,Blockbluster,424988211,3096
+56228,Frozen,Flop,1274219009,5295
+66994,The Matrix Reloaded,Blockbluster,738599701,3443
+23418,Thor: The Dark World,Blockbluster,644571402,4755
+44525,Mad Max: Fury Road,Flop,378858340,9427
+32198,Angels & Demons,Blockbluster,356613439,2129
+16146,Thor,Blockbluster,449326618,6525
+16110,Bolt,Blockbluster,309979994,1750
+50405,G-Force,Blockbluster,292817841,510
+35171,Wrath of the Titans,Blockbluster,301000000,1431
+85876,Dark Shadows,Blockbluster,245527149,2320
+95463,Mission: Impossible - Rogue Nation,Flop,682330139,3224
+65539,The Wolfman,Flop,0,549
+92582,Bee Movie,Flop,287594577,1171
+15862,Kung Fu Panda 2,Blockbluster,665692281,1880
+82946,The Last Airbender,Blockbluster,318502923,1151
+23937,Mission: Impossible III,Blockbluster,397850012,2028
+40889,White House Down,Blockbluster,205366737,1891
+14601,Mars Needs Moms,Blockbluster,38992758,199
+68136,Flushed Away,Flop,64459316,874
+86050,Pan,Flop,128388320,954
+77113,Mr. Peabody & Sherman,Flop,272912430,843
+24548,Troy,Flop,497409852,2759
+80037,Madagascar 3: Europe's Most Wanted,Blockbluster,746921274,1808
+57823,Die Another Day,Blockbluster,431971116,1092
+53756,Ghostbusters,Blockbluster,229147509,2142
+56314,Armageddon,Blockbluster,553799566,2482
+94910,Men in Black II,Blockbluster,441818803,3114
+81258,Beowulf,Flop,195735876,841
+27967,Kung Fu Panda 3,Blockbluster,521170825,1603
+67392,Mission: Impossible - Ghost Protocol,Blockbluster,694713380,3972
+84069,Rise of the Guardians,Blockbluster,306941670,1922
+92636,Fun with Dick and Jane,Blockbluster,202026112,627
+31118,The Last Samurai,Blockbluster,456758981,1895
+89097,Exodus: Gods and Kings,Blockbluster,268031828,1921
+33987,Star Trek,Blockbluster,385680446,4518
+68633,Spider-Man,Blockbluster,821708551,5265
+94120,How to Train Your Dragon 2,Blockbluster,609123048,3106
+58610,Gods of Egypt,Blockbluster,150680864,1277
+24969,Stealth,Flop,76932943,331
+85145,Watchmen,Blockbluster,185258983,2811
+69139,Lethal Weapon 4,Blockbluster,285444603,767
+46783,Hulk,Blockbluster,245360480,1533
+89112,G.I. Joe: Retaliation,Blockbluster,371876278,3025
+76565,Sahara,Blockbluster,119269486,434
+18619,Final Fantasy: The Spirits Within,Flop,85131830,433
+42253,Captain America: The First Avenger,Blockbluster,370569774,7047
+16605,The World Is Not Enough,Blockbluster,361832400,862
+82324,Master and Commander: The Far Side of the World,Flop,212011111,790
+31206,The Twilight Saga: Breaking Dawn - Part 2,Blockbluster,829000000,2553
+25051,Happy Feet Two,Blockbluster,150406466,373
+97256,The Incredible Hulk,Blockbluster,163712074,3021
+35967,The BFG,Blockbluster,183345589,1000
+26617,The Revenant,Blockbluster,532950503,6396
+49448,Turbo,Blockbluster,282570682,1074
+82434,Rango,Blockbluster,245724603,2051
+12224,Penguins of Madagascar,Blockbluster,373552094,1346
+94640,The Bourne Ultimatum,Blockbluster,442824138,2888
+11773,Kung Fu Panda,Blockbluster,631744560,3145
+98229,Ant-Man,Blockbluster,519311965,5880
+99327,The Hunger Games: Catching Fire,Blockbluster,847423452,6495
+88131,Home,Blockbluster,368871007,1519
+59917,War of the Worlds,Blockbluster,591739379,2322
+11178,Bad Boys II,Blockbluster,273339556,1564
+18451,Puss in Boots,Blockbluster,554987477,451
+45213,Salt,Blockbluster,293329073,2093
+51676,Noah,Blockbluster,362637473,2350
+43503,The Adventures of Tintin,Blockbluster,371940071,2061
+47296,Harry Potter and the Prisoner of Azkaban,Blockbluster,789804554,5877
+62814,Australia,Flop,49554002,694
+44522,After Earth,Blockbluster,243843127,2532
+99794,Dinosaur,Blockbluster,354248063,542
+53876,Night at the Museum: Secret of the Tomb,Blockbluster,349424282,1851
+60109,Megamind,Blockbluster,321887208,1918
+77606,Harry Potter and the Philosopher's Stone,Blockbluster,976475550,7006
+79335,R.I.P.D.,Flop,61648500,1260
+20641,Pirates of the Caribbean: The Curse of the Black Pearl,Blockbluster,655011224,6985
+56261,The Hunger Games: Mockingjay - Part 1,Blockbluster,752100229,5584
+87771,The Da Vinci Code,Blockbluster,767820459,2704
+96615,Rio 2,Blockbluster,500188435,978
+49186,X2,Blockbluster,407711549,3506
+53282,Fast Five,Blockbluster,626137675,2438
+85142,Sherlock Holmes: A Game of Shadows,Blockbluster,334615000,3886
+17017,Clash of the Titans,Blockbluster,232713139,2233
+37650,Total Recall,Blockbluster,261317921,1710
+72902,The 13th Warrior,Flop,61698899,510
+78160,The Bourne Legacy,Blockbluster,276572938,2651
+79712,Batman & Robin,Blockbluster,238207122,1418
+38601,How the Grinch Stole Christmas,Blockbluster,345141403,1386
+12720,The Day After Tomorrow,Blockbluster,544272402,2392
+16171,Mission: Impossible II,Blockbluster,546388105,1928
+92009,The Perfect Storm,Blockbluster,325756637,597
+45936,4: Rise of the Silver Surfer,Blockbluster,289047763,2589
+28356,Life of Pi,Blockbluster,609016565,5797
+76398,Ghost Rider,Blockbluster,228738393,1712
+94442,Jason Bourne,Blockbluster,415484914,2341
+91673,Charlie's Angels: Full Throttle,Blockbluster,259175788,914
+48027,Prometheus,Blockbluster,403170142,5080
+72619,Stuart Little 2,Blockbluster,169956806,613
+69223,Elysium,Blockbluster,286140700,3439
+57597,The Chronicles of Riddick,Flop,115772733,1570
+50730,RoboCop,Blockbluster,242688965,2342
+93815,Speed Racer,Flop,93945766,354
+18581,How Do You Know,Flop,48668907,223
+11271,Knight and Day,Blockbluster,261930431,1547
+44500,Oblivion,Blockbluster,286168572,4800
+70394,Star Wars: Episode III - Revenge of the Sith,Blockbluster,850000000,4116
+85111,Star Wars: Episode II - Attack of the Clones,Blockbluster,649398328,3992
+27813,"Monsters, Inc.",Blockbluster,562816256,5996
+44846,The Wolverine,Blockbluster,415440673,4053
+79922,Star Wars: Episode I - The Phantom Menace,Blockbluster,924317558,4432
+79012,The Croods,Blockbluster,585178928,2399
+24473,Astérix aux Jeux Olympiques,Blockbluster,132900000,471
+86541,Windtalkers,Flop,77628265,341
+21395,The Huntsman: Winter's War,Blockbluster,164602163,1523
+61601,Teenage Mutant Ninja Turtles,Blockbluster,477200000,2636
+48054,Gravity,Blockbluster,716392705,5751
+93336,Dante's Peak,Blockbluster,178127760,428
+51389,Teenage Mutant Ninja Turtles: Out of the Shadows,Blockbluster,245623848,963
+66126,Fantastic Four,Blockbluster,167977596,2278
+70876,Night at the Museum,Blockbluster,574480841,2862
+79932,San Andreas,Blockbluster,470490832,2968
+64774,Tomorrow Never Dies,Blockbluster,333011068,925
+60297,The Patriot,Blockbluster,215294342,1099
+25066,Ocean's Twelve,Blockbluster,362744280,2124
+90803,Mr. & Mrs. Smith,Blockbluster,478207520,2965
+50318,Insurgent,Blockbluster,295238201,3829
+25479,The Aviator,Blockbluster,102000000,1489
+26184,Gulliver's Travels,Flop,237382724,621
+46918,The Green Hornet,Blockbluster,227817248,1251
+24169,300: Rise of an Empire,Blockbluster,337580051,2397
+56458,The Smurfs,Blockbluster,563749323,1179
+83516,Home on the Range,Blockbluster,103951461,389
+51653,Allegiant,Blockbluster,179246868,1998
+86300,Real Steel,Blockbluster,299268508,2692
+72857,The Smurfs 2,Blockbluster,347434178,695
+21128,Speed 2: Cruise Control,Blockbluster,164508066,434
+12512,Ender's Game,Blockbluster,125537191,2303
+45441,Live Free or Die Hard,Blockbluster,383531464,2089
+34484,The Lord of the Rings: The Fellowship of the Ring,Blockbluster,871368364,8705
+18990,Around the World in 80 Days,Flop,72178895,672
+65576,Ali,Flop,87713825,447
+61231,The Cat in the Hat,Flop,0,366
+23396,"I, Robot",Blockbluster,347234916,3793
+38021,Kingdom of Heaven,Blockbluster,211643158,1157
+22632,Stuart Little,Blockbluster,300135367,959
+58307,The Princess and the Frog,Blockbluster,267045765,1247
+84430,The Martian,Blockbluster,630161890,7268
+61452,The Island,Flop,162949164,1770
+52397,Town & Country,Flop,10372291,16
+53612,Gone in Sixty Seconds,Blockbluster,237202299,1485
+80925,Gladiator,Blockbluster,457640427,5439
+33905,Minority Report,Blockbluster,358372926,2608
+56936,Harry Potter and the Chamber of Secrets,Blockbluster,876688482,5815
+94161,Casino Royale,Blockbluster,599045960,3855
+23505,Planet of the Apes,Blockbluster,362211740,1243
+75874,Terminator 2: Judgment Day,Flop,520000000,4185
+23599,Public Enemies,Blockbluster,214104620,1344
+27971,American Gangster,Blockbluster,266465037,1502
+33716,True Lies,Blockbluster,378882411,1116
+83683,The Taking of Pelham 1 2 3,Blockbluster,150166126,954
+65856,Little Fockers,Blockbluster,310650585,1060
+47939,The Other Guys,Blockbluster,170432927,1383
+44283,Eraser,Blockbluster,242295562,543
+37892,Django Unchained,Blockbluster,425368238,10099
+68915,The Hunchback of Notre Dame,Blockbluster,100138851,1129
+12792,The Emperor's New Groove,Blockbluster,169327687,1490
+25047,The Expendables 2,Blockbluster,312573423,2896
+58880,National Treasure,Blockbluster,347451894,1926
+28014,Eragon,Blockbluster,249288105,967
+71863,Where the Wild Things Are,Blockbluster,100086793,572
+91383,Epic,Flop,268426634,1121
+22343,The Tourist,Blockbluster,278731369,1699
+19724,End of Days,Blockbluster,211989043,482
+34814,Blood Diamond,Blockbluster,170877916,2281
+33641,The Wolf of Wall Street,Blockbluster,392000694,6571
+68742,Batman Forever,Blockbluster,336529144,1498
+35313,Starship Troopers,Blockbluster,121214377,1560
+55583,Cloud Atlas,Blockbluster,130482868,2977
+46107,Legend of the Guardians: The Owls of Ga'Hoole,Blockbluster,140073390,703
+98073,Catwoman,Flop,82102379,808
+96548,Hercules,Blockbluster,243400000,1680
+97540,Treasure Planet,Blockbluster,109578115,948
+21279,Land of the Lost,Flop,68688831,381
+68217,The Expendables 3,Blockbluster,206172544,1795
+79664,Point Break,Blockbluster,133718711,783
+47236,Son of the Mask,Flop,0,338
+65233,In the Heart of the Sea,Blockbluster,93820758,1276
+11318,The Adventures of Pluto Nash,Flop,7103973,142
+47941,Green Zone,Blockbluster,94882889,717
+69580,The Peanuts Movie,Blockbluster,246233113,604
+60431,The Spanish Prisoner,Flop,13835130,73
+81757,The Mummy Returns,Blockbluster,433013274,2206
+37520,Gangs of New York,Blockbluster,193772504,1910
+25485,金陵十三釵,Blockbluster,95311434,187
+86809,Surf's Up,Blockbluster,149044513,601
+73276,The Stepford Wives,Blockbluster,102000000,334
+88055,Black Hawk Down,Blockbluster,172989651,1811
+81793,The Campaign,Blockbluster,104907746,578
+43637,The Fifth Element,Blockbluster,263920180,3885
+25229,Sex and the City 2,Blockbluster,288347692,426
+15080,The Road to El Dorado,Flop,76432727,858
+32610,Ice Age: Continental Drift,Blockbluster,877244782,2672
+26896,Cinderella,Blockbluster,543514353,2374
+67497,The Lovely Bones,Flop,93525586,1065
+29072,Finding Nemo,Blockbluster,940335536,6122
+98843,The Lord of the Rings: The Return of the King,Blockbluster,1118888979,8064
+20832,The Lord of the Rings: The Two Towers,Blockbluster,926287400,7487
+86026,Seventh Son,Flop,114178613,957
+83659,Lara Croft: Tomb Raider,Blockbluster,274703340,2192
+12049,Transcendence,Blockbluster,103039258,2295
+80119,Jurassic Park III,Blockbluster,368780809,2077
+37168,Rise of the Planet of the Apes,Blockbluster,482860185,4347
+49119,The Spiderwick Chronicles,Blockbluster,162839667,572
+19693,A Good Day to Die Hard,Blockbluster,304654182,3493
+99668,The Alamo,Flop,25819961,106
+65873,The Incredibles,Blockbluster,631442092,5152
+56974,Cutthroat Island,Flop,10017322,136
+49360,Percy Jackson & the Olympians: The Lightning Thief,Blockbluster,226497209,2010
+25758,Men in Black,Blockbluster,589390539,4412
+79011,Toy Story 2,Blockbluster,497366869,3806
+69635,Unstoppable,Blockbluster,167805466,1165
+83766,Rush Hour 2,Blockbluster,347325802,1054
+21691,What Lies Beneath,Blockbluster,155464351,488
+24175,Cloudy with a Chance of Meatballs,Blockbluster,242988466,1747
+73184,Ice Age: Dawn of the Dinosaurs,Blockbluster,886686817,2271
+48877,The Secret Life of Walter Mitty,Blockbluster,188133322,3144
+18887,Charlie's Angels,Blockbluster,264105545,1232
+26110,The Departed,Blockbluster,289847354,4339
+71690,Mulan,Blockbluster,304320254,2008
+48400,Tropic Thunder,Flop,188072649,1667
+60550,The Girl with the Dragon Tattoo,Blockbluster,232617430,2434
+48662,Die Hard: With a Vengeance,Blockbluster,366101666,2066
+11210,Sherlock Holmes,Blockbluster,524028679,5766
+33929,Ben-Hur,Flop,94061311,621
+34974,Atlantis: The Lost Empire,Blockbluster,186053725,1224
+13043,Alvin and the Chipmunks: The Road Chip,Blockbluster,233755553,428
+58562,Valkyrie,Blockbluster,200276000,1173
+69893,You Don't Mess with the Zohan,Blockbluster,201596308,1048
+21750,Pixels,Blockbluster,243637091,2513
+24486,A.I. Artificial Intelligence,Blockbluster,235926552,1974
+59720,The Haunted Mansion,Blockbluster,182290266,466
+58444,Contact,Flop,171120329,1308
+47446,Hollow Man,Blockbluster,190213455,634
+94528,The Interpreter,Blockbluster,162944923,392
+82961,Percy Jackson: Sea of Monsters,Flop,174578751,1648
+20418,Lara Croft Tomb Raider: The Cradle of Life,Blockbluster,156505388,1418
+79026,Now You See Me 2,Blockbluster,334901337,3235
+28527,The Saint,Blockbluster,118063304,302
+68305,Spy Game,Blockbluster,143049560,579
+73368,Mission to Mars,Flop,60874615,369
+17748,Rio,Blockbluster,484635760,2166
+44291,Bicentennial Man,Blockbluster,93700000,963
+68425,Volcano,Flop,0,376
+39786,The Devil's Own,Blockbluster,140807547,290
+93507,K-19: The Widowmaker,Flop,35168966,264
+42298,Conan the Barbarian,Flop,79114085,650
+43699,Cinderella Man,Blockbluster,108539911,616
+24611,The Nutcracker: The Untold Story,Blockbluster,16178959,50
+44050,Seabiscuit,Blockbluster,148336445,216
+38693,Twister,Blockbluster,494471524,950
+65513,Cast Away,Blockbluster,429632142,3218
+76546,Happy Feet,Blockbluster,384335608,1410
+39637,The Bourne Supremacy,Blockbluster,288500217,2825
+99081,Air Force One,Blockbluster,315156409,840
+87201,Ocean's Eleven,Blockbluster,450717150,3783
+37052,The Three Musketeers,Flop,132274484,924
+59259,Hotel Transylvania,Blockbluster,358375603,2566
+18502,Enchanted,Blockbluster,340487652,1449
+94514,Safe House,Blockbluster,208076205,1345
+17405,102 Dalmatians,Flop,183611771,313
+95146,Tower Heist,Flop,152930623,932
+47582,The Holiday,Blockbluster,194168700,1225
+47286,Enemy of the State,Blockbluster,250649836,1240
+27994,It's Complicated,Blockbluster,219103655,360
+91156,Ocean's Thirteen,Blockbluster,311312624,1999
+77783,Open Season,Blockbluster,197309027,656
+81991,Divergent,Blockbluster,288747895,4663
+70570,Enemy at the Gates,Flop,96976270,999
+41241,The Rundown,Flop,80916492,514
+92177,Last Action Hero,Blockbluster,137298489,712
+72450,Memoirs of a Geisha,Blockbluster,162242962,652
+71252,The Fast and the Furious: Tokyo Drift,Blockbluster,158468292,1705
+75303,Arthur Christmas,Flop,0,333
+73296,Meet Joe Black,Blockbluster,142940100,1147
+65092,Collateral Damage,Flop,78382433,427
+24215,All That Jazz,Flop,37823676,85
+41432,Mirror Mirror,Blockbluster,183018522,1114
+92036,Scott Pilgrim vs. the World,Flop,47664559,2126
+71597,The Core,Flop,74208267,516
+99730,Nutty Professor II: The Klumps,Blockbluster,123307945,332
+11331,Scooby-Doo,Blockbluster,275650703,820
+47807,Dredd,Flop,41037742,1940
+59831,Click,Flop,237681299,2104
+23458,Creepshow,Flop,21028755,226
+89610,Cats & Dogs 2 : The Revenge of Kitty Galore,Blockbluster,112483764,119
+68093,Jumper,Blockbluster,222231186,1799
+22583,Hellboy II: The Golden Army,Blockbluster,160388063,1527
+45431,Zodiac,Blockbluster,84785914,2023
+31018,The 6th Day,Flop,96085477,595
+60729,Bruce Almighty,Blockbluster,484572835,3012
+78388,The Expendables,Blockbluster,274470394,2926
+20371,Mission: Impossible,Blockbluster,457696359,2631
+62446,The Hunger Games,Blockbluster,691210692,9455
+33471,The Hangover Part II,Blockbluster,254455986,3739
+69545,Batman Returns,Blockbluster,280000000,1673
+26983,Over the Hedge,Blockbluster,343397247,1074
+57674,Lilo & Stitch,Blockbluster,145771527,1314
+86138,Charlotte's Web,Blockbluster,144000000,288
+91627,Deep Impact,Blockbluster,140464664,855
+51530,RED 2,Flop,0,1526
+22306,The Longest Yard,Blockbluster,190320568,785
+40784,Alvin and the Chipmunks: Chipwrecked,Blockbluster,342695435,484
+82982,Grown Ups 2,Blockbluster,246984278,1155
+39179,Get Smart,Blockbluster,230685453,1051
+91893,Something's Gotta Give,Blockbluster,266728738,410
+38257,Shutter Island,Flop,294804195,6336
+21885,Four Christmases,Flop,163733697,331
+53187,Robots,Flop,260696994,1333
+83501,Face/Off,Flop,245676146,1583
+28592,Bedtime Stories,Flop,212874442,901
+67638,Road to Perdition,Flop,181001478,1077
+43514,Just Go with It,Blockbluster,214918407,1543
+47642,Con Air,Blockbluster,224012234,1270
+95571,Eagle Eye,Blockbluster,178066569,1018
+51114,Cold Mountain,Blockbluster,173013509,533
+79677,The Book of Eli,Blockbluster,157107755,2164
+65864,Flubber,Blockbluster,177977226,695
+49312,The Haunting,Flop,91188905,369
+69944,Space Jam,Blockbluster,250200000,1288
+47536,The Pink Panther,Flop,0,550
+40408,The Day the Earth Stood Still,Blockbluster,233093859,1043
+94768,Conspiracy Theory,Blockbluster,136982834,431
+40555,Fury,Blockbluster,211817906,3946
+35128,Six Days Seven Nights,Blockbluster,164000000,332
+70690,Yogi Bear,Blockbluster,201584141,220
+60862,Spirit: Stallion of the Cimarron,Blockbluster,122563539,831
+36742,Zookeeper,Blockbluster,169852759,498
+49773,Lost in Space,Blockbluster,136159423,388
+95829,The Manchurian Candidate,Flop,96105964,393
+76780,Déjà Vu,Flop,0,1
+80335,Hotel Transylvania 2,Blockbluster,473226958,1497
+95225,Fantasia 2000,Flop,90874570,292
+25252,The Time Machine,Blockbluster,123729176,631
+86573,Mighty Joe Young,Flop,0,208
+99251,Swordfish,Blockbluster,147080413,932
+15842,The Legend of Zorro,Blockbluster,142400065,893
+47180,What Dreams May Come,Flop,71485043,577
+89463,Little Nicky,Flop,0,438
+31847,The Brothers Grimm,Blockbluster,105316267,818
+84637,Mars Attacks!,Blockbluster,101371017,1509
+86492,Évolution,Flop,0,47
+58976,The Edge,Flop,43312294,349
+89574,Surrogates,Blockbluster,122444772,1195
+73606,Thirteen Days,Flop,34566746,189
+56821,Daylight,Blockbluster,159212469,378
+40288,Walking With Dinosaurs,Blockbluster,126546518,133
+36874,Battlefield Earth,Flop,21400000,255
+97963,Looney Tunes: Back in Action,Flop,68514844,297
+83413,Nine,Flop,53825515,165
+18648,Timeline,Flop,19480739,318
+52587,The Postman,Flop,17626234,299
+70759,Babe: Pig in the City,Flop,69131860,305
+85522,The Last Witch Hunter,Blockbluster,146936910,1316
+59142,Red Planet,Flop,33463969,267
+78506,Arthur et les Minimoys,Flop,107944236,639
+52043,Oceans,Flop,19406406,111
+22128,A Sound of Thunder,Blockbluster,5989640,111
+28197,Pompeii,Blockbluster,117831631,1267
+71606,Don Gato: El inicio de la pandilla,Flop,0,9
+60486,A Beautiful Mind,Blockbluster,313542341,3009
+33672,The Lion King,Flop,788241776,5376
+75730,Journey 2: The Mysterious Island,Blockbluster,355692760,1030
+78945,Cloudy with a Chance of Meatballs 2,Blockbluster,248384621,915
+57476,Red Dragon,Blockbluster,209196298,1115
+55309,Hidalgo,Flop,108103450,318
+72551,Jack and Jill,Flop,149673788,604

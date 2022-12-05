@@ -1,0 +1,501 @@
+movie_id,movie_title,rating
+25683,Avatar,7.2
+14531,Pirates of the Caribbean: At World's End,6.9
+18260,Spectre,6.3
+25056,The Dark Knight Rises,7.6
+99197,John Carter,6.1
+36957,Spider-Man 3,5.9
+88901,Tangled,7.4
+67895,Avengers: Age of Ultron,7.3
+91826,Harry Potter and the Half-Blood Prince,7.4
+91701,Batman v Superman: Dawn of Justice,5.7
+13736,Superman Returns,5.4
+14715,Quantum of Solace,6.1
+45746,Pirates of the Caribbean: Dead Man's Chest,7
+49061,The Lone Ranger,5.9
+12516,Man of Steel,6.5
+52526,The Chronicles of Narnia: Prince Caspian,6.3
+12900,The Avengers,7.4
+28995,Pirates of the Caribbean: On Stranger Tides,6.4
+95636,Men in Black 3,6.2
+45599,The Hobbit: The Battle of the Five Armies,7.1
+82310,The Amazing Spider-Man,6.5
+12298,Robin Hood,6.2
+76013,The Hobbit: The Desolation of Smaug,7.6
+71535,The Golden Compass,5.8
+73688,King Kong,6.6
+41019,Titanic,7.5
+26043,Captain America: Civil War,7.1
+84995,Battleship,5.5
+27424,Jurassic World,6.5
+53458,Skyfall,6.9
+53670,Spider-Man 2,6.7
+93183,Iron Man 3,6.8
+90156,Alice in Wonderland,6.4
+85642,X-Men: The Last Stand,6.3
+25461,Monsters University,7
+31799,Transformers: Revenge of the Fallen,6
+11570,Transformers: Age of Extinction,5.8
+49377,Oz: The Great and Powerful,5.7
+32430,The Amazing Spider-Man 2,6.5
+15323,TRON: Legacy,6.3
+53933,Cars 2,5.8
+55758,Green Lantern,5.1
+87107,Toy Story 3,7.6
+45646,Terminator Salvation,5.9
+93339,Furious 7,7.3
+92323,World War Z,6.7
+47055,X-Men: Days of Future Past,7.5
+87119,Star Trek Into Darkness,7.4
+16439,Jack the Giant Slayer,5.5
+48595,The Great Gatsby,7.3
+80601,Prince of Persia: The Sands of Time,6.2
+76236,Pacific Rim,6.7
+55014,Transformers: Dark of the Moon,6.1
+62964,Indiana Jones and the Kingdom of the Crystal Skull,5.7
+80564,The Good Dinosaur,6.6
+85997,Brave,6.7
+97735,Star Trek Beyond,6.6
+44854,WALL·E,7.8
+46788,Rush Hour 3,6.1
+41822,2012,5.6
+51516,A Christmas Carol,6.6
+98760,Jupiter Ascending,5.2
+64975,The Legend of Tarzan,5.5
+87690,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.7
+16279,X-Men: Apocalypse,6.4
+41096,The Dark Knight,8.2
+18747,Up,7.7
+83597,Monsters vs Aliens,6
+53347,Iron Man,7.4
+34519,Hugo,7
+73031,Wild Wild West,5.1
+89421,The Mummy: Tomb of the Dragon Emperor,5.2
+46879,Suicide Squad,5.9
+12096,Evan Almighty,5.3
+59638,Edge of Tomorrow,7.6
+78260,Waterworld,5.9
+46374,G.I. Joe: The Rise of Cobra,5.6
+91850,Inside Out,8
+24813,The Jungle Book,6.7
+35211,Iron Man 2,6.6
+91908,Snow White and the Huntsman,5.8
+79914,Maleficent,7
+74657,Dawn of the Planet of the Apes,7.3
+13293,The Lovers,4.8
+40186,47 Ronin,5.9
+49812,Captain America: The Winter Soldier,7.6
+33248,Shrek Forever After,6
+36690,Tomorrowland,6.2
+61966,Big Hero 6,7.8
+44188,Wreck-It Ralph,7.1
+43286,The Polar Express,6.4
+96105,Independence Day: Resurgence,4.9
+25663,How to Train Your Dragon,7.5
+17923,Terminator 3: Rise of the Machines,5.9
+45769,Guardians of the Galaxy,7.9
+71713,Interstellar,8.1
+73278,Inception,8.1
+28163,シン・ゴジラ,6.5
+95805,The Hobbit: An Unexpected Journey,7
+23809,The Fast and the Furious,6.6
+44586,The Curious Case of Benjamin Button,7.3
+88288,X-Men: First Class,7.1
+39431,The Hunger Games: Mockingjay - Part 2,6.6
+65303,The Sorcerer's Apprentice,5.8
+58012,Poseidon,5.5
+17205,Alice Through the Looking Glass,6.5
+58009,Shrek the Third,6
+62564,Warcraft,6.3
+23035,Terminator Genisys,5.8
+76892,The Chronicles of Narnia: The Voyage of the Dawn Treader,6.2
+93450,Pearl Harbor,6.6
+35196,Transformers,6.6
+94806,Alexander,5.6
+88736,Harry Potter and the Order of the Phoenix,7.4
+65877,Harry Potter and the Goblet of Fire,7.5
+29898,Hancock,6.2
+20311,I Am Legend,6.9
+53041,Charlie and the Chocolate Factory,6.7
+40882,Ratatouille,7.5
+95404,Batman Begins,7.5
+33459,Madagascar: Escape 2 Africa,6.2
+43680,Night at the Museum: Battle of the Smithsonian,5.9
+51929,X-Men Origins: Wolverine,6.2
+28974,The Matrix Revolutions,6.4
+56228,Frozen,7.3
+66994,The Matrix Reloaded,6.7
+23418,Thor: The Dark World,6.8
+44525,Mad Max: Fury Road,7.2
+32198,Angels & Demons,6.5
+16146,Thor,6.6
+16110,Bolt,6.3
+50405,G-Force,5.1
+35171,Wrath of the Titans,5.5
+85876,Dark Shadows,5.7
+95463,Mission: Impossible - Rogue Nation,7.1
+65539,The Wolfman,5.5
+92582,Bee Movie,5.7
+15862,Kung Fu Panda 2,6.7
+82946,The Last Airbender,4.7
+23937,Mission: Impossible III,6.5
+40889,White House Down,6.4
+14601,Mars Needs Moms,5.5
+68136,Flushed Away,6
+86050,Pan,5.9
+77113,Mr. Peabody & Sherman,6.7
+24548,Troy,6.9
+80037,Madagascar 3: Europe's Most Wanted,6.4
+57823,Die Another Day,5.8
+53756,Ghostbusters,5.3
+56314,Armageddon,6.4
+94910,Men in Black II,6
+81258,Beowulf,5.5
+27967,Kung Fu Panda 3,6.7
+67392,Mission: Impossible - Ghost Protocol,6.8
+84069,Rise of the Guardians,7.1
+92636,Fun with Dick and Jane,5.9
+31118,The Last Samurai,7.3
+89097,Exodus: Gods and Kings,5.6
+33987,Star Trek,7.4
+68633,Spider-Man,6.8
+94120,How to Train Your Dragon 2,7.6
+58610,Gods of Egypt,5.3
+24969,Stealth,4.9
+85145,Watchmen,7
+69139,Lethal Weapon 4,6.3
+46783,Hulk,5.3
+89112,G.I. Joe: Retaliation,5.4
+76565,Sahara,5.7
+18619,Final Fantasy: The Spirits Within,5.9
+42253,Captain America: The First Avenger,6.6
+16605,The World Is Not Enough,6
+82324,Master and Commander: The Far Side of the World,6.9
+31206,The Twilight Saga: Breaking Dawn - Part 2,6.1
+25051,Happy Feet Two,5.8
+97256,The Incredible Hulk,6.1
+35967,The BFG,6
+26617,The Revenant,7.3
+49448,Turbo,6.1
+82434,Rango,6.6
+12224,Penguins of Madagascar,6.5
+94640,The Bourne Ultimatum,7.3
+11773,Kung Fu Panda,6.9
+98229,Ant-Man,7
+99327,The Hunger Games: Catching Fire,7.4
+88131,Home,6.8
+59917,War of the Worlds,6.2
+11178,Bad Boys II,6.3
+18451,Puss in Boots,6.4
+45213,Salt,6.2
+51676,Noah,5.6
+43503,The Adventures of Tintin,6.7
+47296,Harry Potter and the Prisoner of Azkaban,7.7
+62814,Australia,6.3
+44522,After Earth,5
+99794,Dinosaur,6.2
+53876,Night at the Museum: Secret of the Tomb,6.1
+60109,Megamind,6.7
+77606,Harry Potter and the Philosopher's Stone,7.5
+79335,R.I.P.D.,5.4
+20641,Pirates of the Caribbean: The Curse of the Black Pearl,7.5
+56261,The Hunger Games: Mockingjay - Part 1,6.6
+87771,The Da Vinci Code,6.5
+96615,Rio 2,6.3
+49186,X2,6.8
+53282,Fast Five,7.1
+85142,Sherlock Holmes: A Game of Shadows,7
+17017,Clash of the Titans,5.6
+37650,Total Recall,7.1
+72902,The 13th Warrior,6.4
+78160,The Bourne Legacy,6
+79712,Batman & Robin,4.2
+38601,How the Grinch Stole Christmas,6.2
+12720,The Day After Tomorrow,6.2
+16171,Mission: Impossible II,5.9
+92009,The Perfect Storm,6.2
+45936,4: Rise of the Silver Surfer,5.4
+28356,Life of Pi,7.2
+76398,Ghost Rider,5.2
+94442,Jason Bourne,5.9
+91673,Charlie's Angels: Full Throttle,5.2
+48027,Prometheus,6.3
+72619,Stuart Little 2,5.4
+69223,Elysium,6.4
+57597,The Chronicles of Riddick,6.3
+50730,RoboCop,5.7
+93815,Speed Racer,5.7
+18581,How Do You Know,4.9
+11271,Knight and Day,5.9
+44500,Oblivion,6.4
+70394,Star Wars: Episode III - Revenge of the Sith,7.1
+85111,Star Wars: Episode II - Attack of the Clones,6.4
+27813,"Monsters, Inc.",7.5
+44846,The Wolverine,6.3
+79922,Star Wars: Episode I - The Phantom Menace,6.3
+79012,The Croods,6.8
+24473,Astérix aux Jeux Olympiques,5
+86541,Windtalkers,5.8
+21395,The Huntsman: Winter's War,6
+61601,Teenage Mutant Ninja Turtles,5.8
+48054,Gravity,7.3
+93336,Dante's Peak,5.7
+51389,Teenage Mutant Ninja Turtles: Out of the Shadows,5.8
+66126,Fantastic Four,4.4
+70876,Night at the Museum,6.3
+79932,San Andreas,6
+64774,Tomorrow Never Dies,6
+60297,The Patriot,6.8
+25066,Ocean's Twelve,6.4
+90803,Mr. & Mrs. Smith,6.5
+50318,Insurgent,6.2
+25479,The Aviator,7
+26184,Gulliver's Travels,4.9
+46918,The Green Hornet,5.5
+24169,300: Rise of an Empire,6.1
+56458,The Smurfs,5.5
+83516,Home on the Range,5.7
+51653,Allegiant,5.9
+86300,Real Steel,6.6
+72857,The Smurfs 2,5.5
+21128,Speed 2: Cruise Control,4.1
+12512,Ender's Game,6.6
+45441,Live Free or Die Hard,6.4
+34484,The Lord of the Rings: The Fellowship of the Ring,8
+18990,Around the World in 80 Days,5.7
+65576,Ali,6.7
+61231,The Cat in the Hat,4.9
+23396,"I, Robot",6.7
+38021,Kingdom of Heaven,6.6
+22632,Stuart Little,5.8
+58307,The Princess and the Frog,6.7
+84430,The Martian,7.6
+61452,The Island,6.5
+52397,Town & Country,3.7
+53612,Gone in Sixty Seconds,6.1
+80925,Gladiator,7.9
+33905,Minority Report,7.1
+56936,Harry Potter and the Chamber of Secrets,7.4
+94161,Casino Royale,7.3
+23505,Planet of the Apes,5.6
+75874,Terminator 2: Judgment Day,7.7
+23599,Public Enemies,6.5
+27971,American Gangster,7.4
+33716,True Lies,6.8
+83683,The Taking of Pelham 1 2 3,6.2
+65856,Little Fockers,5.4
+47939,The Other Guys,6.1
+44283,Eraser,5.6
+37892,Django Unchained,7.8
+68915,The Hunchback of Notre Dame,6.8
+12792,The Emperor's New Groove,7.2
+25047,The Expendables 2,6.1
+58880,National Treasure,6.4
+28014,Eragon,4.9
+71863,Where the Wild Things Are,6.4
+91383,Epic,6.4
+22343,The Tourist,6
+19724,End of Days,5.5
+34814,Blood Diamond,7.3
+33641,The Wolf of Wall Street,7.9
+68742,Batman Forever,5.2
+35313,Starship Troopers,6.7
+55583,Cloud Atlas,6.6
+46107,Legend of the Guardians: The Owls of Ga'Hoole,6.5
+98073,Catwoman,4.2
+96548,Hercules,5.6
+97540,Treasure Planet,7.2
+21279,Land of the Lost,5.3
+68217,The Expendables 3,6.1
+79664,Point Break,5.5
+47236,Son of the Mask,3.6
+65233,In the Heart of the Sea,6.5
+11318,The Adventures of Pluto Nash,4.4
+47941,Green Zone,6.4
+69580,The Peanuts Movie,6.5
+60431,The Spanish Prisoner,7.1
+81757,The Mummy Returns,6
+37520,Gangs of New York,7.1
+25485,金陵十三釵,7.1
+86809,Surf's Up,5.9
+73276,The Stepford Wives,5.4
+88055,Black Hawk Down,7.2
+81793,The Campaign,5.6
+43637,The Fifth Element,7.3
+25229,Sex and the City 2,5.4
+15080,The Road to El Dorado,7
+32610,Ice Age: Continental Drift,6.2
+26896,Cinderella,6.7
+67497,The Lovely Bones,6.6
+29072,Finding Nemo,7.6
+98843,The Lord of the Rings: The Return of the King,8.1
+20832,The Lord of the Rings: The Two Towers,8
+86026,Seventh Son,5.2
+83659,Lara Croft: Tomb Raider,5.7
+12049,Transcendence,5.9
+80119,Jurassic Park III,5.7
+37168,Rise of the Planet of the Apes,7
+49119,The Spiderwick Chronicles,6.3
+19693,A Good Day to Die Hard,5.2
+99668,The Alamo,5.8
+65873,The Incredibles,7.4
+56974,Cutthroat Island,5.7
+49360,Percy Jackson & the Olympians: The Lightning Thief,6
+25758,Men in Black,6.9
+79011,Toy Story 2,7.3
+69635,Unstoppable,6.3
+83766,Rush Hour 2,6.4
+21691,What Lies Beneath,6.3
+24175,Cloudy with a Chance of Meatballs,6.5
+73184,Ice Age: Dawn of the Dinosaurs,6.5
+48877,The Secret Life of Walter Mitty,7
+18887,Charlie's Angels,5.6
+26110,The Departed,7.9
+71690,Mulan,7.6
+48400,Tropic Thunder,6.5
+60550,The Girl with the Dragon Tattoo,7.2
+48662,Die Hard: With a Vengeance,6.9
+11210,Sherlock Holmes,7
+33929,Ben-Hur,5.3
+34974,Atlantis: The Lost Empire,6.7
+13043,Alvin and the Chipmunks: The Road Chip,5.8
+58562,Valkyrie,6.7
+69893,You Don't Mess with the Zohan,5.5
+21750,Pixels,5.6
+24486,A.I. Artificial Intelligence,6.8
+59720,The Haunted Mansion,5.2
+58444,Contact,7.2
+47446,Hollow Man,5.6
+94528,The Interpreter,6.2
+82961,Percy Jackson: Sea of Monsters,5.9
+20418,Lara Croft Tomb Raider: The Cradle of Life,5.5
+79026,Now You See Me 2,6.7
+28527,The Saint,5.9
+68305,Spy Game,6.8
+73368,Mission to Mars,5.7
+17748,Rio,6.5
+44291,Bicentennial Man,6.9
+68425,Volcano,5.2
+39786,The Devil's Own,5.9
+93507,K-19: The Widowmaker,6.1
+42298,Conan the Barbarian,6.6
+43699,Cinderella Man,7.3
+24611,The Nutcracker: The Untold Story,5.4
+44050,Seabiscuit,6.7
+38693,Twister,6.1
+65513,Cast Away,7.5
+76546,Happy Feet,5.9
+39637,The Bourne Supremacy,7.2
+99081,Air Force One,6.2
+87201,Ocean's Eleven,7.2
+37052,The Three Musketeers,5.6
+59259,Hotel Transylvania,6.8
+18502,Enchanted,6.6
+94514,Safe House,6.3
+17405,102 Dalmatians,5.1
+95146,Tower Heist,5.8
+47582,The Holiday,6.7
+47286,Enemy of the State,6.7
+27994,It's Complicated,6.2
+91156,Ocean's Thirteen,6.5
+77783,Open Season,6.1
+81991,Divergent,6.9
+70570,Enemy at the Gates,7.2
+41241,The Rundown,6.4
+92177,Last Action Hero,6.1
+72450,Memoirs of a Geisha,7.3
+71252,The Fast and the Furious: Tokyo Drift,6.1
+75303,Arthur Christmas,6.7
+73296,Meet Joe Black,6.9
+65092,Collateral Damage,5.5
+24215,All That Jazz,7.3
+41432,Mirror Mirror,5.5
+92036,Scott Pilgrim vs. the World,7.2
+71597,The Core,5.4
+99730,Nutty Professor II: The Klumps,4.7
+11331,Scooby-Doo,5.4
+47807,Dredd,6.6
+59831,Click,6
+23458,Creepshow,6.7
+89610,Cats & Dogs 2 : The Revenge of Kitty Galore,4.9
+68093,Jumper,5.9
+22583,Hellboy II: The Golden Army,6.5
+45431,Zodiac,7.3
+31018,The 6th Day,5.7
+60729,Bruce Almighty,6.4
+78388,The Expendables,6
+20371,Mission: Impossible,6.7
+62446,The Hunger Games,6.9
+33471,The Hangover Part II,6.2
+69545,Batman Returns,6.6
+26983,Over the Hedge,6.3
+57674,Lilo & Stitch,7.1
+86138,Charlotte's Web,5.8
+91627,Deep Impact,5.9
+51530,RED 2,6.4
+22306,The Longest Yard,6.2
+40784,Alvin and the Chipmunks: Chipwrecked,5.4
+82982,Grown Ups 2,5.8
+39179,Get Smart,6
+91893,Something's Gotta Give,6.3
+38257,Shutter Island,7.8
+21885,Four Christmases,5.3
+53187,Robots,6
+83501,Face/Off,6.8
+28592,Bedtime Stories,5.9
+67638,Road to Perdition,7.3
+43514,Just Go with It,6.3
+47642,Con Air,6.5
+95571,Eagle Eye,6.3
+51114,Cold Mountain,6.7
+79677,The Book of Eli,6.6
+65864,Flubber,5.3
+49312,The Haunting,5.2
+69944,Space Jam,6.5
+47536,The Pink Panther,5.6
+40408,The Day the Earth Stood Still,5.2
+94768,Conspiracy Theory,6.5
+40555,Fury,7.4
+35128,Six Days Seven Nights,5.6
+70690,Yogi Bear,5.2
+60862,Spirit: Stallion of the Cimarron,7.4
+36742,Zookeeper,5.3
+49773,Lost in Space,5
+95829,The Manchurian Candidate,6.2
+76780,Déjà Vu,8
+80335,Hotel Transylvania 2,6.7
+95225,Fantasia 2000,7
+25252,The Time Machine,5.8
+86573,Mighty Joe Young,5.9
+99251,Swordfish,6.1
+15842,The Legend of Zorro,5.9
+47180,What Dreams May Come,6.8
+89463,Little Nicky,5.2
+31847,The Brothers Grimm,5.6
+84637,Mars Attacks!,6.1
+86492,Évolution,6.4
+58976,The Edge,6.7
+89574,Surrogates,5.9
+73606,Thirteen Days,6.9
+56821,Daylight,5.8
+40288,Walking With Dinosaurs,5.2
+36874,Battlefield Earth,3
+97963,Looney Tunes: Back in Action,5.6
+83413,Nine,5.1
+18648,Timeline,5.4
+52587,The Postman,6.1
+70759,Babe: Pig in the City,5.2
+85522,The Last Witch Hunter,5.7
+59142,Red Planet,5.4
+78506,Arthur et les Minimoys,6
+52043,Oceans,7.3
+22128,A Sound of Thunder,4.8
+28197,Pompeii,5.2
+71606,Don Gato: El inicio de la pandilla,5.3
+60486,A Beautiful Mind,7.7
+33672,The Lion King,8
+75730,Journey 2: The Mysterious Island,5.8
+78945,Cloudy with a Chance of Meatballs 2,6.4
+57476,Red Dragon,6.7
+55309,Hidalgo,6.5
+72551,Jack and Jill,4.1

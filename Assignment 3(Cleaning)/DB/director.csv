@@ -1,0 +1,501 @@
+movie_id,movie_title,director,critics_rating
+25683,Avatar,James cameran,7.2
+14531,Pirates of the Caribbean: At World's End,Gore Verbinski,6.9
+18260,Spectre,Sam mendes,6.3
+25056,The Dark Knight Rises,Christoper Nolan,7.6
+99197,John Carter,Andrew Stanton,6.1
+36957,Spider-Man 3,Sam Raimi,5.9
+88901,Tangled,Nathan Greno,7.4
+67895,Avengers: Age of Ultron,Joss Whedon,7.3
+91826,Harry Potter and the Half-Blood Prince,David Yates,7.4
+91701,Batman v Superman: Dawn of Justice,Zack Snyder,5.7
+13736,Superman Returns,Bryan Singer,5.4
+14715,Quantum of Solace,Marc Forster,6.1
+45746,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,7
+49061,The Lone Ranger,Gore Verbinski,5.9
+12516,Man of Steel,Zack Snyder,6.5
+52526,The Chronicles of Narnia: Prince Caspian,Andrew Adamson,6.3
+12900,The Avengers,Joe Russo,7.4
+28995,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,6.4
+95636,Men in Black 3,Barry Sonnenfeld,6.2
+45599,The Hobbit: The Battle of the Five Armies,Peter Jackson,7.1
+82310,The Amazing Spider-Man,Marc Webb,6.5
+12298,Robin Hood,Otto Bathurst,6.2
+76013,The Hobbit: The Desolation of Smaug,Peter Jackson,7.6
+71535,The Golden Compass,Chris Weitz,5.8
+73688,King Kong,Peter Jackson,6.6
+41019,Titanic,James Cameron,7.5
+26043,Captain America: Civil War,Joe Russo,7.1
+84995,Battleship,Peter Berg,5.5
+27424,Jurassic World,Colin Trevorrow,6.5
+53458,Skyfall,Sam Mendes,6.9
+53670,Spider-Man 2,Sam Raimi,6.7
+93183,Iron Man 3,Shane Black,6.8
+90156,Alice in Wonderland,Tim Burton,6.4
+85642,X-Men: The Last Stand,Brett Ratner,6.3
+25461,Monsters University,Dan Scanlon,7
+31799,Transformers: Revenge of the Fallen,Michael Bay,6
+11570,Transformers: Age of Extinction,Michael Bay,5.8
+49377,Oz: The Great and Powerful,Sam Raimi,5.7
+32430,The Amazing Spider-Man 2,Sam Raimi,6.5
+15323,TRON: Legacy,Frank Darabont,6.3
+53933,Cars 2,Francis Ford Coppola,5.8
+55758,Green Lantern,Christopher Nolan,5.1
+87107,Toy Story 3,Francis Ford Coppola,7.6
+45646,Terminator Salvation,Sidney Lumet,5.9
+93339,Furious 7,Peter Jackson,7.3
+92323,World War Z,Quentin Tarantino,6.7
+47055,X-Men: Days of Future Past,Steven Spielberg,7.5
+87119,Star Trek Into Darkness,Christopher Nolan,7.4
+16439,Jack the Giant Slayer,David Fincher,5.5
+48595,The Great Gatsby,Peter Jackson,7.3
+80601,Prince of Persia: The Sands of Time,Robert Zemeckis,6.2
+76236,Pacific Rim,Sergio Leone,6.7
+55014,Transformers: Dark of the Moon,Peter Jackson,6.1
+62964,Indiana Jones and the Kingdom of the Crystal Skull,Lana Wachowski,5.7
+80564,The Good Dinosaur,Martin Scorsese,6.6
+85997,Brave,Irvin Kershner,6.7
+97735,Star Trek Beyond,Milos Forman,6.6
+44854,WALL·E,Thomas Kail,7.8
+46788,Rush Hour 3,Bong Joon Ho,6.1
+41822,2012,Sudha Kongara,5.6
+51516,A Christmas Carol,Christopher Nolan,6.6
+98760,Jupiter Ascending,Fernando Meirelles,5.2
+64975,The Legend of Tarzan,Hayao Miyazaki,5.5
+87690,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Steven Spielberg,6.7
+16279,X-Men: Apocalypse,Frank Darabont,6.4
+41096,The Dark Knight,Roberto Benigni,8.2
+18747,Up,David Fincher,7.7
+83597,Monsters vs Aliens,Jonathan Demme,6
+53347,Iron Man,George Lucas,7.4
+34519,Hugo,Masaki Kobayashi,7
+73031,Wild Wild West,Steven Spielberg,5.1
+89421,The Mummy: Tomb of the Dragon Emperor,Frank Capra,5.2
+46879,Suicide Squad,Todd Phillips,5.9
+12096,Evan Almighty,Damien Chazelle,5.3
+59638,Edge of Tomorrow,Olivier Nakache,7.6
+78260,Waterworld,Christopher Nolan,5.9
+46374,G.I. Joe: The Rise of Cobra,Martin Scorsese,5.6
+91850,Inside Out,Roman Polanski,8
+24813,The Jungle Book,Ridley Scott,6.7
+35211,Iron Man 2,Tony Kaye,6.6
+91908,Snow White and the Huntsman,Bryan Singer,5.8
+79914,Maleficent,Luc Besson,7
+74657,Dawn of the Planet of the Apes,Roger Allers,7.3
+13293,The Lovers,James Cameron,4.8
+40186,47 Ronin,Giuseppe Tornatore,5.9
+49812,Captain America: The Winter Soldier,Isao Takahata,7.6
+33248,Shrek Forever After,Robert Zemeckis,6
+36690,Tomorrowland,Sergio Leone,6.2
+61966,Big Hero 6,Alfred Hitchcock,7.8
+44188,Wreck-It Ralph,Michael Curtiz,7.1
+43286,The Polar Express,Charles Chaplin,6.4
+96105,Independence Day: Resurgence,Charles Chaplin,4.9
+25663,How to Train Your Dragon,Nadine Labaki,7.5
+17923,Terminator 3: Rise of the Machines,Can Ulkay,5.9
+45769,Guardians of the Galaxy,Gayatri,7.9
+71713,Interstellar,Makoto Shinkai,8.1
+73278,Inception,Nitesh Tiwari,8.1
+28163,シン・ゴジラ,Bob Persichetti,6.5
+95805,The Hobbit: An Unexpected Journey,Anthony Russo,7
+23809,The Fast and the Furious,Anthony Russo,6.6
+44586,The Curious Case of Benjamin Button,Lee Unkrich,7.3
+88288,X-Men: First Class,Quentin Tarantino,7.1
+39431,The Hunger Games: Mockingjay - Part 2,Christopher Nolan,6.6
+65303,The Sorcerer's Apprentice,Steven Spielberg,5.8
+58012,Poseidon,Steven Spielberg,5.5
+17205,Alice Through the Looking Glass,Andrew Stanton,6.5
+58009,Shrek the Third,Florian Henckel von Donnersmarck,6
+62564,Warcraft,Chan-wook Park,6.3
+23035,Terminator Genisys,Christopher Nolan,5.8
+76892,The Chronicles of Narnia: The Voyage of the Dawn Treader,Hayao Miyazaki,6.2
+93450,Pearl Harbor,Sergio Leone,6.6
+35196,Transformers,Steven Spielberg,6.6
+94806,Alexander,Stanley Kubrick,5.6
+88736,Harry Potter and the Order of the Phoenix,Francis Ford Coppola,7.4
+65877,Harry Potter and the Goblet of Fire,Ridley Scott,7.5
+29898,Hancock,Steven Spielberg,6.2
+20311,I Am Legend,Steven Spielberg,6.9
+53041,Charlie and the Chocolate Factory,Stanley Kubrick,6.7
+40882,Ratatouille,Billy Wilder,7.5
+95404,Batman Begins,Stanley Kubrick,7.5
+33459,Madagascar: Escape 2 Africa,Alfred Hitchcock,6.2
+43680,Night at the Museum: Battle of the Smithsonian,Billy Wilder,5.9
+51929,X-Men Origins: Wolverine,Charles Chaplin,6.2
+28974,The Matrix Revolutions,Sam Mendes,6.4
+56228,Frozen,Steven Spielberg,7.3
+66994,The Matrix Reloaded,Sriram Raghavan,6.7
+23418,Thor: The Dark World,Jeethu Joseph,6.8
+44525,Mad Max: Fury Road,Thomas Vinterberg,7.2
+32198,Angels & Demons,Asghar Farhadi,6.5
+16146,Thor,Denis Villeneuve,6.6
+16110,Bolt,Mehmet Ada Öztekin,6.3
+50405,G-Force,Çagan Irmak,5.1
+35171,Wrath of the Titans,Quentin Tarantino,5.5
+85876,Dark Shadows,Michel Gondry,5.7
+95463,Mission: Impossible - Rogue Nation,Jean-Pierre Jeunet,7.1
+65539,The Wolfman,Guy Ritchie,5.5
+92582,Bee Movie,Darren Aronofsky,5.7
+15862,Kung Fu Panda 2,Sam Mendes,6.7
+82946,The Last Airbender,Gus Van Sant,4.7
+23937,Mission: Impossible III,Majid Majidi,6.5
+40889,White House Down,John Lasseter,6.4
+14601,Mars Needs Moms,Mel Gibson,5.5
+68136,Flushed Away,Quentin Tarantino,6
+86050,Pan,Stanley Kubrick,5.9
+77113,Mr. Peabody & Sherman,Elem Klimov,6.7
+24548,Troy,James Cameron,6.9
+80037,Madagascar 3: Europe's Most Wanted,Milos Forman,6.4
+57823,Die Another Day,Brian De Palma,5.8
+53756,Ghostbusters,Richard Marquand,5.3
+56314,Armageddon,Wolfgang Petersen,6.4
+94910,Men in Black II,Martin Scorsese,6
+81258,Beowulf,George Roy Hill,5.5
+27967,Kung Fu Panda 3,Stanley Kubrick,6.7
+67392,Mission: Impossible - Ghost Protocol,Stanley Kubrick,6.8
+84069,Rise of the Guardians,Sergio Leone,7.1
+92636,Fun with Dick and Jane,David Lean,5.9
+31118,The Last Samurai,Billy Wilder,7.3
+89097,Exodus: Gods and Kings,Alfred Hitchcock,5.6
+33987,Star Trek,Alfred Hitchcock,7.4
+68633,Spider-Man,Stanley Donen,6.8
+94120,How to Train Your Dragon 2,Steven Spielberg,7.6
+58610,Gods of Egypt,Vittorio De Sica,5.3
+24969,Stealth,Billy Wilder,4.9
+85145,Watchmen,Orson Welles,7
+69139,Lethal Weapon 4,Fritz Lang,6.3
+46783,Hulk,Fritz Lang,5.3
+89112,G.I. Joe: Retaliation,Charles Chaplin,5.4
+76565,Sahara,Nitesh Tiwari,5.7
+18619,Final Fantasy: The Spirits Within,Aditya Dhar,5.9
+42253,Captain America: The First Avenger,Steven Spielberg,6.6
+16605,The World Is Not Enough,Peter Farrelly,6
+82324,Master and Commander: The Far Side of the World,Martin McDonagh,6.9
+31206,The Twilight Saga: Breaking Dawn - Part 2,Steven Spielberg,6.1
+25051,Happy Feet Two,John Ford,5.8
+97256,The Incredible Hulk,Andrei Tarkovsky,6.1
+35967,The BFG,Ingmar Bergman,6
+26617,The Revenant,Stanley Kramer,7.3
+49448,Turbo,François Truffaut,6.1
+82434,Rango,William Wyler,6.6
+12224,Penguins of Madagascar,Hirokazu Koreeda,6.5
+94640,The Bourne Ultimatum,Noah Baumbach,7.3
+11773,Kung Fu Panda,Luca Guadagnino,6.9
+98229,Ant-Man,Ken Loach,7
+99327,The Hunger Games: Catching Fire,Wes Anderson,7.4
+88131,Home,Taika Waititi,6.8
+59917,War of the Worlds,Matt Ross,6.2
+11178,Bad Boys II,John Carney,6.3
+18451,Puss in Boots,Taika Waititi,6.4
+45213,Salt,Dan Gilroy,6.2
+51676,Noah,Taika Waititi,5.6
+43503,The Adventures of Tintin,Denis Villeneuve,6.7
+47296,Harry Potter and the Prisoner of Azkaban,J.J. Abrams,7.7
+62814,Australia,Richard Linklater,6.3
+44522,After Earth,Bryan Singer,5
+99794,Dinosaur,Nuri Bilge Ceylan,6.2
+53876,Night at the Museum: Secret of the Tomb,Michel Hazanavicius,6.1
+60109,Megamind,Doug Liman,6.7
+77606,Harry Potter and the Philosopher's Stone,Michael Haneke,7.5
+79335,R.I.P.D.,Martin Scorsese,5.4
+20641,Pirates of the Caribbean: The Curse of the Black Pearl,Jacques Audiard,7.5
+56261,The Hunger Games: Mockingjay - Part 1,Duncan Jones,6.6
+87771,The Da Vinci Code,Tomas Alfredson,6.5
+96615,Rio 2,Neill Blomkamp,6.3
+49186,X2,Darren Aronofsky,6.8
+53282,Fast Five,Gregory Peck,7.1
+85142,Sherlock Holmes: A Game of Shadows,Toshirô Mifune,7
+17017,Clash of the Titans,Spencer Tracy,5.6
+37650,Total Recall,Marilyn Monroe,7.1
+72902,The 13th Warrior,Victor Sjöström,6.4
+78160,The Bourne Legacy,Max von Sydow,6
+79712,Batman & Robin,Jean Servais,4.2
+38601,How the Grinch Stole Christmas,Ray Milland,6.2
+12720,The Day After Tomorrow,Chishû Ryû,6.2
+16171,Mission: Impossible II,Toshirô Mifune,5.9
+92009,The Perfect Storm,Bette Davis,6.2
+45936,4: Rise of the Silver Surfer,Humphrey Bogart,5.4
+28356,Life of Pi,Carole Lombard,7.2
+76398,Ghost Rider,Charles Chaplin,5.2
+94442,Jason Bourne,Buster Keaton,5.9
+91673,Charlie's Angels: Full Throttle,Noémie Merlant,5.2
+48027,Prometheus,Taapsee Pannu,6.3
+72619,Stuart Little 2,Miyu Irino,5.4
+69223,Elysium,Mario Casas,6.4
+57597,The Chronicles of Riddick,Rob Reiner,6.3
+50730,RoboCop,Oliver Stone,5.7
+93815,Speed Racer,Wim Wenders,5.7
+18581,How Do You Know,Hayao Miyazaki,4.9
+11271,Knight and Day,John Carpenter,5.9
+44500,Oblivion,Alan Parker,6.4
+70394,Star Wars: Episode III - Revenge of the Sith,Werner Herzog,7.1
+85111,Star Wars: Episode II - Attack of the Clones,Ingmar Bergman,6.4
+27813,"Monsters, Inc.",Ridley Scott,7.5
+44846,The Wolverine,David Lynch,6.3
+79922,Star Wars: Episode I - The Phantom Menace,Terry Jones,6.3
+79012,The Croods,Michael Cimino,6.8
+24473,Astérix aux Jeux Olympiques,John G. Avildsen,5
+86541,Windtalkers,Sidney Lumet,5.8
+21395,The Huntsman: Winter's War,Stanley Kubrick,6
+61601,Teenage Mutant Ninja Turtles,Andrei Tarkovsky,5.8
+48054,Gravity,Roman Polanski,7.3
+93336,Dante's Peak,Peter Bogdanovich,5.7
+51389,Teenage Mutant Ninja Turtles: Out of the Shadows,Ingmar Bergman,5.8
+66126,Fantastic Four,Andrei Tarkovsky,4.4
+70876,Night at the Museum,Jean-Pierre Melville,6.3
+79932,San Andreas,Stuart Rosenberg,6
+64774,Tomorrow Never Dies,Ingmar Bergman,6
+60297,The Patriot,Andrei Tarkovsky,6.8
+25066,Ocean's Twelve,Rob Reiner,6.4
+90803,Mr. & Mrs. Smith,Oliver Stone,6.5
+50318,Insurgent,Wim Wenders,6.2
+25479,The Aviator,Hayao Miyazaki,7
+26184,Gulliver's Travels,John Carpenter,4.9
+46918,The Green Hornet,Alan Parker,5.5
+24169,300: Rise of an Empire,Werner Herzog,6.1
+56458,The Smurfs,Ingmar Bergman,5.5
+83516,Home on the Range,Ridley Scott,5.7
+51653,Allegiant,David Lynch,5.9
+86300,Real Steel,Terry Jones,6.6
+72857,The Smurfs 2,Michael Cimino,5.5
+21128,Speed 2: Cruise Control,John G. Avildsen,4.1
+12512,Ender's Game,Sidney Lumet,6.6
+45441,Live Free or Die Hard,Stanley Kubrick,6.4
+34484,The Lord of the Rings: The Fellowship of the Ring,Andrei Tarkovsky,8
+18990,Around the World in 80 Days,Roman Polanski,5.7
+65576,Ali,Peter Bogdanovich,6.7
+61231,The Cat in the Hat,Ingmar Bergman,4.9
+23396,"I, Robot",Andrei Tarkovsky,6.7
+38021,Kingdom of Heaven,Jean-Pierre Melville,6.6
+22632,Stuart Little,Stuart Rosenberg,5.8
+58307,The Princess and the Frog,Ingmar Bergman,6.7
+84430,The Martian,Andrei Tarkovsky,7.6
+61452,The Island,Gregory Peck,6.5
+52397,Town & Country,Toshirô Mifune,3.7
+53612,Gone in Sixty Seconds,Spencer Tracy,6.1
+80925,Gladiator,Marilyn Monroe,7.9
+33905,Minority Report,Victor Sjöström,7.1
+56936,Harry Potter and the Chamber of Secrets,Max von Sydow,7.4
+94161,Casino Royale,Jean Servais,7.3
+23505,Planet of the Apes,Ray Milland,5.6
+75874,Terminator 2: Judgment Day,Chishû Ryû,7.7
+23599,Public Enemies,Toshirô Mifune,6.5
+27971,American Gangster,Bette Davis,7.4
+33716,True Lies,Humphrey Bogart,6.8
+83683,The Taking of Pelham 1 2 3,Carole Lombard,6.2
+65856,Little Fockers,Charles Chaplin,5.4
+47939,The Other Guys,Buster Keaton,6.1
+44283,Eraser,Noémie Merlant,5.6
+37892,Django Unchained,Taapsee Pannu,7.8
+68915,The Hunchback of Notre Dame,Miyu Irino,6.8
+12792,The Emperor's New Groove,Mario Casas,7.2
+25047,The Expendables 2,Victor Sjöström,6.1
+58880,National Treasure,Max von Sydow,6.4
+28014,Eragon,Jean Servais,4.9
+71863,Where the Wild Things Are,Ray Milland,6.4
+91383,Epic,Chishû Ryû,6.4
+22343,The Tourist,Toshirô Mifune,6
+19724,End of Days,Bette Davis,5.5
+34814,Blood Diamond,Humphrey Bogart,7.3
+33641,The Wolf of Wall Street,Carole Lombard,7.9
+68742,Batman Forever,Charles Chaplin,5.2
+35313,Starship Troopers,Buster Keaton,6.7
+55583,Cloud Atlas,Noémie Merlant,6.6
+46107,Legend of the Guardians: The Owls of Ga'Hoole,Taapsee Pannu,6.5
+98073,Catwoman,Miyu Irino,4.2
+96548,Hercules,Mario Casas,5.6
+97540,Treasure Planet,Stanley Donen,7.2
+21279,Land of the Lost,John Frankenheimer,5.3
+68217,The Expendables 3,Stanley Kubrick,6.1
+79664,Point Break,Michelangelo Antonioni,5.5
+47236,Son of the Mask,Alain Resnais,3.6
+65233,In the Heart of the Sea,Cecil B. DeMille,6.5
+11318,The Adventures of Pluto Nash,John Ford,4.4
+47941,Green Zone,Elia Kazan,6.4
+69580,The Peanuts Movie,Fred Zinnemann,6.5
+60431,The Spanish Prisoner,Alfred Hitchcock,7.1
+81757,The Mummy Returns,Henry Koster,6
+37520,Gangs of New York,George Seaton,7.1
+25485,金陵十三釵,Alfred Hitchcock,7.1
+86809,Surf's Up,Howard Hawks,5.9
+73276,The Stepford Wives,Billy Wilder,5.4
+88055,Black Hawk Down,George Cukor,7.2
+81793,The Campaign,Howard Hawks,5.6
+43637,The Fifth Element,Michael Curtiz,7.3
+25229,Sex and the City 2,Sam Wood,5.4
+15080,The Road to El Dorado,Merian C. Cooper,7
+32610,Ice Age: Continental Drift,Tod Browning,6.2
+26896,Cinderella,F.W. Murnau,6.7
+67497,The Lovely Bones,Guy Ritchie,6.6
+29072,Finding Nemo,Meghna Gulzar,7.6
+98843,The Lord of the Rings: The Return of the King,Darius Marder,8.1
+20832,The Lord of the Rings: The Two Towers,Asghar Farhadi,8
+86026,Seventh Son,Christopher Nolan,5.2
+83659,Lara Croft: Tomb Raider,Paolo Genovese,5.7
+12049,Transcendence,Theodore Melfi,5.9
+80119,Jurassic Park III,Paul King,5.7
+37168,Rise of the Planet of the Apes,Abhishek Chaubey,7
+49119,The Spiderwick Chronicles,Travis Knight,6.3
+19693,A Good Day to Die Hard,Neeraj Pandey,5.2
+99668,The Alamo,Kenneth Lonergan,5.8
+65873,The Incredibles,Martin Zandvliet,7.4
+56974,Cutthroat Island,Gareth Edwards,5.7
+49360,Percy Jackson & the Olympians: The Lightning Thief,Anthony Russo,6
+25758,Men in Black,Quentin Tarantino,6.9
+79011,Toy Story 2,Greta Gerwig,7.3
+69635,Unstoppable,Dorota Kobiela,6.3
+83766,Rush Hour 2,Matthew Warchus,6.4
+21691,What Lies Beneath,Asghar Farhadi,6.3
+24175,Cloudy with a Chance of Meatballs,Paolo Sorrentino,6.5
+73184,Ice Age: Dawn of the Dinosaurs,Ritesh Batra,6.5
+48877,The Secret Life of Walter Mitty,Shoojit Sircar,7
+18887,Charlie's Angels,Don Hall,5.6
+26110,The Departed,Richard Curtis,7.9
+71690,Mulan,Gauri Shinde,7.6
+48400,Tropic Thunder,Hayao Miyazaki,6.5
+60550,The Girl with the Dragon Tattoo,Josh Cooley,7.2
+48662,Die Hard: With a Vengeance,Giuseppe Tornatore,6.9
+11210,Sherlock Holmes,Wes Anderson,7
+33929,Ben-Hur,Dean DeBlois,5.3
+34974,Atlantis: The Lost Empire,Adam McKay,6.7
+13043,Alvin and the Chipmunks: The Road Chip,Tetsuya Nakashima,5.8
+58562,Valkyrie,Jee-woon Kim,6.7
+69893,You Don't Mess with the Zohan,David Fincher,5.5
+21750,Pixels,Paul Greengrass,5.6
+24486,A.I. Artificial Intelligence,Jeong-beom Lee,6.8
+59720,The Haunted Mansion,F. Gary Gray,5.2
+58444,Contact,Bong Joon Ho,7.2
+47446,Hollow Man,Hong-jin Na,5.6
+94528,The Interpreter,Peter Jackson,6.2
+82961,Percy Jackson: Sea of Monsters,Michael Haneke,5.9
+20418,Lara Croft Tomb Raider: The Cradle of Life,Niels Arden Oplev,5.5
+79026,Now You See Me 2,Aaron Sorkin,6.7
+28527,The Saint,Thomas Vinterberg,5.9
+68305,Spy Game,David O. Russell,6.8
+73368,Mission to Mars,Pierre Morel,5.7
+17748,Rio,Mark Herman,6.5
+44291,Bicentennial Man,John Carney,6.9
+68425,Volcano,Peter Jackson,5.2
+39786,The Devil's Own,Fatih Akin,5.9
+93507,K-19: The Widowmaker,Joe Wright,6.1
+42298,Conan the Barbarian,Nicolas Winding Refn,6.6
+43699,Cinderella Man,Ridley Scott,7.3
+24611,The Nutcracker: The Untold Story,James Cameron,5.4
+44050,Seabiscuit,Jaco Van Dormael,6.7
+38693,Twister,Mel Gibson,6.1
+65513,Cast Away,Jonathan Dayton,7.5
+76546,Happy Feet,Edgar Wright,5.9
+39637,The Bourne Supremacy,David Fincher,7.2
+99081,Air Force One,Yash Chopra,6.2
+87201,Ocean's Eleven,Anders Thomas Jensen,7.2
+37052,The Three Musketeers,Joe Wright,5.6
+59259,Hotel Transylvania,Roger Donaldson,6.8
+18502,Enchanted,Satoshi Kon,6.6
+94514,Safe House,Joss Whedon,6.3
+17405,102 Dalmatians,James Mangold,5.1
+95146,Tower Heist,Mikael Håfström,5.8
+47582,The Holiday,Nick Cassavetes,6.7
+47286,Enemy of the State,Walter Salles,6.7
+27994,It's Complicated,Lukas Moodysson,6.2
+91156,Ocean's Thirteen,Sylvain Chomet,6.5
+77783,Open Season,Chan-wook Park,6.1
+81991,Divergent,Kevin Reynolds,6.9
+70570,Enemy at the Gates,Richard Linklater,7.2
+41241,The Rundown,Boaz Yakin,6.4
+92177,Last Action Hero,Ang Lee,6.1
+72450,Memoirs of a Geisha,Pedro Almodóvar,7.3
+71252,The Fast and the Furious: Tokyo Drift,Lars von Trier,6.1
+75303,Arthur Christmas,Tim Burton,6.7
+73296,Meet Joe Black,Lasse Hallström,6.9
+65092,Collateral Damage,George P. Cosmatos,5.5
+24215,All That Jazz,David Mickey Evans,7.3
+41432,Mirror Mirror,James Ivory,5.5
+92036,Scott Pilgrim vs. the World,Mike Leigh,7.2
+71597,The Core,Andrew Davis,5.4
+99730,Nutty Professor II: The Klumps,Robert De Niro,4.7
+11331,Scooby-Doo,Kevin Altieri,5.4
+47807,Dredd,John Woo,6.6
+59831,Click,Jim Jarmusch,6
+23458,Creepshow,Krzysztof Kieslowski,6.7
+89610,Cats & Dogs 2 : The Revenge of Kitty Galore,John Singleton,4.9
+68093,Jumper,Rob Reiner,5.9
+22583,Hellboy II: The Golden Army,Penny Marshall,6.5
+45431,Zodiac,Hayao Miyazaki,7.3
+31018,The 6th Day,Edward Zwick,5.7
+60729,Bruce Almighty,John Woo,6.4
+78388,The Expendables,Robert Zemeckis,6
+20371,Mission: Impossible,Alan Parker,6.7
+62446,The Hunger Games,John McTiernan,6.9
+33471,The Hangover Part II,Sam Raimi,6.2
+69545,Batman Returns,John Hughes,6.6
+26983,Over the Hedge,Jim Jarmusch,6.3
+57674,Lilo & Stitch,Richard Donner,7.1
+86138,Charlotte's Web,Steven Spielberg,5.8
+91627,Deep Impact,John Hughes,5.9
+51530,RED 2,Roland Joffé,6.4
+22306,The Longest Yard,Ivan Reitman,6.2
+40784,Alvin and the Chipmunks: Chipwrecked,Philip Kaufman,5.4
+82982,Grown Ups 2,Martin Scorsese,5.8
+39179,Get Smart,Steven Spielberg,6
+91893,Something's Gotta Give,Robert Benton,6.3
+38257,Shutter Island,Terrence Malick,7.8
+21885,Four Christmases,Clint Eastwood,5.3
+53187,Robots,John Huston,6
+83501,Face/Off,Francis Ford Coppola,6.8
+28592,Bedtime Stories,René Laloux,5.9
+67638,Road to Perdition,Fred Zinnemann,7.3
+43514,Just Go with It,Terrence Malick,6.3
+47642,Con Air,Gregory Peck,6.5
+95571,Eagle Eye,Toshirô Mifune,6.3
+51114,Cold Mountain,Spencer Tracy,6.7
+79677,The Book of Eli,Marilyn Monroe,6.6
+65864,Flubber,Victor Sjöström,5.3
+49312,The Haunting,Max von Sydow,5.2
+69944,Space Jam,Jean Servais,6.5
+47536,The Pink Panther,Ray Milland,5.6
+40408,The Day the Earth Stood Still,Chishû Ryû,5.2
+94768,Conspiracy Theory,Toshirô Mifune,6.5
+40555,Fury,Bette Davis,7.4
+35128,Six Days Seven Nights,Humphrey Bogart,5.6
+70690,Yogi Bear,Carole Lombard,5.2
+60862,Spirit: Stallion of the Cimarron,Charles Chaplin,7.4
+36742,Zookeeper,Buster Keaton,5.3
+49773,Lost in Space,Noémie Merlant,5
+95829,The Manchurian Candidate,Taapsee Pannu,6.2
+76780,Déjà Vu,Miyu Irino,8
+80335,Hotel Transylvania 2,Mario Casas,6.7
+95225,Fantasia 2000,Kim Min-hee,7
+25252,The Time Machine,Anne Dorval,5.8
+86573,Mighty Joe Young,Kim Min-hee,5.9
+99251,Swordfish,Anne Dorval,6.1
+15842,The Legend of Zorro,Martin campbell,5.9
+47180,What Dreams May Come,Vincent Ward,6.8
+89463,Little Nicky,Steven Brill,5.2
+31847,The Brothers Grimm,Terry Gilliam,5.6
+84637,Mars Attacks!,Tim Burton,6.1
+86492,Évolution,Lucile Hadžihalilović,6.4
+58976,The Edge,Lee tamahori,6.7
+89574,Surrogates,Jonathan Mostow,5.9
+73606,Thirteen Days,Roger Donaldson,6.9
+56821,Daylight,Rob Cohen,5.8
+40288,Walking With Dinosaurs,Neil Nightingale,5.2
+36874,Battlefield Earth,Roger Christian,3
+97963,Looney Tunes: Back in Action,Joe Dante,5.6
+83413,Nine,Rob Marshall,5.1
+18648,Timeline,Richard Donner,5.4
+52587,The Postman,Kevin Costner,6.1
+70759,Babe: Pig in the City,George Miller,5.2
+85522,The Last Witch Hunter,Breck Eisner,5.7
+59142,Red Planet,Antony Hoffman,5.4
+78506,Arthur et les Minimoys,Luc Besson,6
+52043,Oceans,Gary Ross,7.3
+22128,A Sound of Thunder,Steven Soderbergh,4.8
+28197,Pompeii,Gabriel Zuchtriegel,5.2
+71606,Don Gato: El inicio de la pandilla,Andrés Couturier,5.3
+60486,A Beautiful Mind,Ron Howard,7.7
+33672,The Lion King,Rob Minkoff,8
+75730,Journey 2: The Mysterious Island,Brad Peyton,5.8
+78945,Cloudy with a Chance of Meatballs 2,Cody Cameron,6.4
+57476,Red Dragon,Brett Ratner,6.7
+55309,Hidalgo,Joe Johnston,6.5
+72551,Jack and Jill,Dennis Dugan,4.1

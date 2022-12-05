@@ -1,0 +1,501 @@
+movie_id,movie_title,review
+75366,Avatar,Best
+36545,Pirates of the Caribbean: At World's End,Good
+18087,Spectre,Good
+54170,The Dark Knight Rises,Best
+68880,John Carter,Good
+67037,Spider-Man 3,Bad
+42126,Tangled,Best
+28350,Avengers: Age of Ultron,Best
+77216,Harry Potter and the Half-Blood Prince,Best
+71126,Batman v Superman: Dawn of Justice,Bad
+47808,Superman Returns,Bad
+21940,Quantum of Solace,Good
+23558,Pirates of the Caribbean: Dead Man's Chest,Best
+32385,The Lone Ranger,Bad
+46189,Man of Steel,Good
+56144,The Chronicles of Narnia: Prince Caspian,Good
+80120,The Avengers,Best
+24531,Pirates of the Caribbean: On Stranger Tides,Good
+25771,Men in Black 3,Good
+16200,The Hobbit: The Battle of the Five Armies,Best
+90519,The Amazing Spider-Man,Good
+74929,Robin Hood,Good
+71080,The Hobbit: The Desolation of Smaug,Best
+45954,The Golden Compass,Bad
+52939,King Kong,Good
+54243,Titanic,Best
+41970,Captain America: Civil War,Best
+38720,Battleship,Bad
+43305,Jurassic World,Good
+43313,Skyfall,Good
+15866,Spider-Man 2,Good
+86308,Iron Man 3,Good
+48818,Alice in Wonderland,Good
+78391,X-Men: The Last Stand,Good
+87593,Monsters University,Best
+44017,Transformers: Revenge of the Fallen,Good
+98197,Transformers: Age of Extinction,Good
+73222,Oz: The Great and Powerful,Good
+50048,The Amazing Spider-Man 2,Good
+68066,TRON: Legacy,Good
+60522,Cars 2,Bad
+16502,Green Lantern,Bad
+76909,Toy Story 3,Best
+61231,Terminator Salvation,Good
+95052,Furious 7,Best
+90564,World War Z,Good
+40515,X-Men: Days of Future Past,Best
+66667,Star Trek Into Darkness,Best
+36577,Jack the Giant Slayer,Bad
+62824,The Great Gatsby,Best
+57152,Prince of Persia: The Sands of Time,Good
+45853,Pacific Rim,Good
+16900,Transformers: Dark of the Moon,Good
+98757,Indiana Jones and the Kingdom of the Crystal Skull,Bad
+36090,The Good Dinosaur,Good
+30804,Brave,Good
+64136,Star Trek Beyond,Good
+11990,WALL·E,Best
+84497,Rush Hour 3,Good
+42235,2012,Bad
+87543,A Christmas Carol,Good
+14384,Jupiter Ascending,Bad
+54481,The Legend of Tarzan,Bad
+80650,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Good
+35567,X-Men: Apocalypse,Good
+56822,The Dark Knight,Best
+66503,Up,Best
+15544,Monsters vs Aliens,Good
+41949,Iron Man,Best
+59881,Hugo,Best
+16410,Wild Wild West,Bad
+74322,The Mummy: Tomb of the Dragon Emperor,Bad
+93568,Suicide Squad,Bad
+78068,Evan Almighty,Bad
+71352,Edge of Tomorrow,Best
+67399,Waterworld,Bad
+30891,G.I. Joe: The Rise of Cobra,Bad
+77495,Inside Out,Best
+71716,The Jungle Book,Good
+56815,Iron Man 2,Good
+60699,Snow White and the Huntsman,Bad
+68094,Maleficent,Best
+26463,Dawn of the Planet of the Apes,Best
+82773,The Lovers,Bad
+43522,47 Ronin,Bad
+62087,Captain America: The Winter Soldier,Best
+73342,Shrek Forever After,Good
+27860,Tomorrowland,Good
+81469,Big Hero 6,Best
+86078,Wreck-It Ralph,Best
+62376,The Polar Express,Good
+11265,Independence Day: Resurgence,Bad
+87109,How to Train Your Dragon,Best
+54790,Terminator 3: Rise of the Machines,Bad
+88432,Guardians of the Galaxy,Best
+65181,Interstellar,Best
+16203,Inception,Best
+31190,シン・ゴジラ,Good
+24488,The Hobbit: An Unexpected Journey,Best
+52548,The Fast and the Furious,Good
+96513,The Curious Case of Benjamin Button,Best
+50652,X-Men: First Class,Best
+35780,The Hunger Games: Mockingjay - Part 2,Good
+84029,The Sorcerer's Apprentice,Bad
+37047,Poseidon,Bad
+75751,Alice Through the Looking Glass,Good
+75193,Shrek the Third,Good
+38010,Warcraft,Good
+79304,Terminator Genisys,Bad
+62266,The Chronicles of Narnia: The Voyage of the Dawn Treader,Good
+27761,Pearl Harbor,Good
+47250,Transformers,Good
+98669,Alexander,Bad
+44847,Harry Potter and the Order of the Phoenix,Best
+64564,Harry Potter and the Goblet of Fire,Best
+78357,Hancock,Good
+46858,I Am Legend,Good
+59195,Charlie and the Chocolate Factory,Good
+83740,Ratatouille,Best
+40114,Batman Begins,Best
+67344,Madagascar: Escape 2 Africa,Good
+51060,Night at the Museum: Battle of the Smithsonian,Bad
+81040,X-Men Origins: Wolverine,Good
+35893,The Matrix Revolutions,Good
+15127,Frozen,Best
+58523,The Matrix Reloaded,Good
+37550,Thor: The Dark World,Good
+90808,Mad Max: Fury Road,Best
+92104,Angels & Demons,Good
+93020,Thor,Good
+82440,Bolt,Good
+24566,G-Force,Bad
+25421,Wrath of the Titans,Bad
+41896,Dark Shadows,Bad
+39375,Mission: Impossible - Rogue Nation,Best
+84165,The Wolfman,Bad
+23849,Bee Movie,Bad
+81984,Kung Fu Panda 2,Good
+85464,The Last Airbender,Bad
+74266,Mission: Impossible III,Good
+68886,White House Down,Good
+18830,Mars Needs Moms,Bad
+30160,Flushed Away,Good
+49529,Pan,Bad
+88332,Mr. Peabody & Sherman,Good
+94042,Troy,Good
+13995,Madagascar 3: Europe's Most Wanted,Good
+51378,Die Another Day,Bad
+87241,Ghostbusters,Bad
+44971,Armageddon,Good
+55569,Men in Black II,Good
+59215,Beowulf,Bad
+63353,Kung Fu Panda 3,Good
+45499,Mission: Impossible - Ghost Protocol,Good
+17686,Rise of the Guardians,Best
+60931,Fun with Dick and Jane,Bad
+66799,The Last Samurai,Best
+26215,Exodus: Gods and Kings,Bad
+19839,Star Trek,Best
+62916,Spider-Man,Good
+99411,How to Train Your Dragon 2,Best
+55679,Gods of Egypt,Bad
+50054,Stealth,Bad
+66816,Watchmen,Best
+87222,Lethal Weapon 4,Good
+50699,Hulk,Bad
+79866,G.I. Joe: Retaliation,Bad
+94509,Sahara,Bad
+34149,Final Fantasy: The Spirits Within,Bad
+28042,Captain America: The First Avenger,Good
+95318,The World Is Not Enough,Good
+66516,Master and Commander: The Far Side of the World,Good
+30913,The Twilight Saga: Breaking Dawn - Part 2,Good
+57335,Happy Feet Two,Bad
+57664,The Incredible Hulk,Good
+65491,The BFG,Good
+28729,The Revenant,Best
+24983,Turbo,Good
+55448,Rango,Good
+45710,Penguins of Madagascar,Good
+14512,The Bourne Ultimatum,Best
+71809,Kung Fu Panda,Good
+93754,Ant-Man,Best
+70416,The Hunger Games: Catching Fire,Best
+43137,Home,Good
+11636,War of the Worlds,Good
+19982,Bad Boys II,Good
+26973,Puss in Boots,Good
+48383,Salt,Good
+40922,Noah,Bad
+75166,The Adventures of Tintin,Good
+18537,Harry Potter and the Prisoner of Azkaban,Best
+45226,Australia,Good
+55158,After Earth,Bad
+63416,Dinosaur,Good
+15707,Night at the Museum: Secret of the Tomb,Good
+30010,Megamind,Good
+96207,Harry Potter and the Philosopher's Stone,Best
+16186,R.I.P.D.,Bad
+94802,Pirates of the Caribbean: The Curse of the Black Pearl,Best
+26050,The Hunger Games: Mockingjay - Part 1,Good
+43716,The Da Vinci Code,Good
+70500,Rio 2,Good
+24201,X2,Good
+43867,Fast Five,Best
+55466,Sherlock Holmes: A Game of Shadows,Best
+36629,Clash of the Titans,Bad
+19985,Total Recall,Best
+71851,The 13th Warrior,Good
+56100,The Bourne Legacy,Good
+23135,Batman & Robin,Bad
+21394,How the Grinch Stole Christmas,Good
+73657,The Day After Tomorrow,Good
+15388,Mission: Impossible II,Bad
+26886,The Perfect Storm,Good
+79744,4: Rise of the Silver Surfer,Bad
+54143,Life of Pi,Best
+46173,Ghost Rider,Bad
+49205,Jason Bourne,Bad
+33682,Charlie's Angels: Full Throttle,Bad
+32832,Prometheus,Good
+88348,Stuart Little 2,Bad
+88966,Elysium,Good
+70185,The Chronicles of Riddick,Good
+32700,RoboCop,Bad
+17520,Speed Racer,Bad
+89260,How Do You Know,Bad
+22118,Knight and Day,Bad
+63742,Oblivion,Good
+25412,Star Wars: Episode III - Revenge of the Sith,Best
+20565,Star Wars: Episode II - Attack of the Clones,Good
+63038,"Monsters, Inc.",Best
+88447,The Wolverine,Good
+19202,Star Wars: Episode I - The Phantom Menace,Good
+36937,The Croods,Good
+72468,Astérix aux Jeux Olympiques,Bad
+11306,Windtalkers,Bad
+23112,The Huntsman: Winter's War,Good
+42492,Teenage Mutant Ninja Turtles,Bad
+71372,Gravity,Best
+14391,Dante's Peak,Bad
+26841,Teenage Mutant Ninja Turtles: Out of the Shadows,Bad
+75706,Fantastic Four,Bad
+34579,Night at the Museum,Good
+21563,San Andreas,Good
+33790,Tomorrow Never Dies,Good
+14257,The Patriot,Good
+74503,Ocean's Twelve,Good
+26041,Mr. & Mrs. Smith,Good
+62161,Insurgent,Good
+67828,The Aviator,Best
+80844,Gulliver's Travels,Bad
+59883,The Green Hornet,Bad
+77070,300: Rise of an Empire,Good
+93714,The Smurfs,Bad
+16359,Home on the Range,Bad
+30562,Allegiant,Bad
+37459,Real Steel,Good
+73661,The Smurfs 2,Bad
+31344,Speed 2: Cruise Control,Bad
+76981,Ender's Game,Good
+72263,Live Free or Die Hard,Good
+41115,The Lord of the Rings: The Fellowship of the Ring,Best
+35959,Around the World in 80 Days,Bad
+82779,Ali,Good
+78106,The Cat in the Hat,Bad
+12767,"I, Robot",Good
+26563,Kingdom of Heaven,Good
+84169,Stuart Little,Bad
+44817,The Princess and the Frog,Good
+79024,The Martian,Best
+55362,The Island,Good
+56164,Town & Country,Bad
+54007,Gone in Sixty Seconds,Good
+56059,Gladiator,Best
+84138,Minority Report,Best
+43772,Harry Potter and the Chamber of Secrets,Best
+71053,Casino Royale,Best
+19556,Planet of the Apes,Bad
+94889,Terminator 2: Judgment Day,Best
+45812,Public Enemies,Good
+95345,American Gangster,Best
+71551,True Lies,Good
+98319,The Taking of Pelham 1 2 3,Good
+36145,Little Fockers,Bad
+58763,The Other Guys,Good
+59290,Eraser,Bad
+40941,Django Unchained,Best
+20430,The Hunchback of Notre Dame,Good
+67971,The Emperor's New Groove,Best
+24070,The Expendables 2,Good
+85269,National Treasure,Good
+31435,Eragon,Bad
+16781,Where the Wild Things Are,Good
+86638,Epic,Good
+14006,The Tourist,Good
+18119,End of Days,Bad
+94892,Blood Diamond,Best
+51485,The Wolf of Wall Street,Best
+55114,Batman Forever,Bad
+38643,Starship Troopers,Good
+66669,Cloud Atlas,Good
+57582,Legend of the Guardians: The Owls of Ga'Hoole,Good
+17743,Catwoman,Bad
+69640,Hercules,Bad
+54761,Treasure Planet,Best
+28928,Land of the Lost,Bad
+69397,The Expendables 3,Good
+93457,Point Break,Bad
+94071,Son of the Mask,Bad
+17901,In the Heart of the Sea,Good
+61161,The Adventures of Pluto Nash,Bad
+32835,Green Zone,Good
+99382,The Peanuts Movie,Good
+54670,The Spanish Prisoner,Best
+87097,The Mummy Returns,Good
+12960,Gangs of New York,Best
+26206,金陵十三釵,Best
+61123,Surf's Up,Good
+12582,The Stepford Wives,Bad
+77452,Black Hawk Down,Best
+76689,The Campaign,Bad
+24676,The Fifth Element,Best
+24535,Sex and the City 2,Bad
+23150,The Road to El Dorado,Best
+55284,Ice Age: Continental Drift,Good
+89215,Cinderella,Good
+66271,The Lovely Bones,Good
+92924,Finding Nemo,Best
+34551,The Lord of the Rings: The Return of the King,Best
+40636,The Lord of the Rings: The Two Towers,Best
+32296,Seventh Son,Bad
+98472,Lara Croft: Tomb Raider,Bad
+60971,Transcendence,Bad
+65257,Jurassic Park III,Bad
+58211,Rise of the Planet of the Apes,Best
+47251,The Spiderwick Chronicles,Good
+91847,A Good Day to Die Hard,Bad
+40689,The Alamo,Bad
+36744,The Incredibles,Best
+52616,Cutthroat Island,Bad
+85034,Percy Jackson & the Olympians: The Lightning Thief,Good
+47316,Men in Black,Good
+67477,Toy Story 2,Best
+58419,Unstoppable,Good
+29958,Rush Hour 2,Good
+86545,What Lies Beneath,Good
+15919,Cloudy with a Chance of Meatballs,Good
+42049,Ice Age: Dawn of the Dinosaurs,Good
+89063,The Secret Life of Walter Mitty,Best
+26107,Charlie's Angels,Bad
+50763,The Departed,Best
+28727,Mulan,Best
+46666,Tropic Thunder,Good
+96219,The Girl with the Dragon Tattoo,Best
+12934,Die Hard: With a Vengeance,Good
+99269,Sherlock Holmes,Best
+92838,Ben-Hur,Bad
+55680,Atlantis: The Lost Empire,Good
+13214,Alvin and the Chipmunks: The Road Chip,Bad
+47903,Valkyrie,Good
+47827,You Don't Mess with the Zohan,Bad
+56073,Pixels,Bad
+67786,A.I. Artificial Intelligence,Good
+90595,The Haunted Mansion,Bad
+35357,Contact,Best
+33009,Hollow Man,Bad
+18658,The Interpreter,Good
+37590,Percy Jackson: Sea of Monsters,Bad
+29931,Lara Croft Tomb Raider: The Cradle of Life,Bad
+79172,Now You See Me 2,Good
+92918,The Saint,Bad
+93276,Spy Game,Good
+56104,Mission to Mars,Bad
+15757,Rio,Good
+75729,Bicentennial Man,Best
+65332,Volcano,Bad
+40015,The Devil's Own,Bad
+54749,K-19: The Widowmaker,Good
+95661,Conan the Barbarian,Good
+53374,Cinderella Man,Best
+49662,The Nutcracker: The Untold Story,Bad
+34084,Seabiscuit,Good
+47411,Twister,Good
+22837,Cast Away,Best
+88264,Happy Feet,Bad
+78014,The Bourne Supremacy,Best
+17356,Air Force One,Good
+97000,Ocean's Eleven,Best
+35701,The Three Musketeers,Bad
+63539,Hotel Transylvania,Good
+20508,Enchanted,Good
+52211,Safe House,Good
+55332,102 Dalmatians,Bad
+27317,Tower Heist,Bad
+81150,The Holiday,Good
+45241,Enemy of the State,Good
+64129,It's Complicated,Good
+48259,Ocean's Thirteen,Good
+82562,Open Season,Good
+14942,Divergent,Good
+14160,Enemy at the Gates,Best
+55689,The Rundown,Good
+73836,Last Action Hero,Good
+83130,Memoirs of a Geisha,Best
+86306,The Fast and the Furious: Tokyo Drift,Good
+63707,Arthur Christmas,Good
+76049,Meet Joe Black,Good
+54000,Collateral Damage,Bad
+74977,All That Jazz,Best
+52652,Mirror Mirror,Bad
+98176,Scott Pilgrim vs. the World,Best
+21892,The Core,Bad
+67667,Nutty Professor II: The Klumps,Bad
+19311,Scooby-Doo,Bad
+99624,Dredd,Good
+54932,Click,Good
+39942,Creepshow,Good
+65546,Cats & Dogs 2 : The Revenge of Kitty Galore,Bad
+21070,Jumper,Bad
+38154,Hellboy II: The Golden Army,Good
+17109,Zodiac,Best
+12451,The 6th Day,Bad
+59539,Bruce Almighty,Good
+11873,The Expendables,Good
+64996,Mission: Impossible,Good
+47372,The Hunger Games,Good
+20682,The Hangover Part II,Good
+18231,Batman Returns,Good
+75148,Over the Hedge,Good
+67472,Lilo & Stitch,Best
+63265,Charlotte's Web,Bad
+37706,Deep Impact,Bad
+82051,RED 2,Good
+75958,The Longest Yard,Good
+35662,Alvin and the Chipmunks: Chipwrecked,Bad
+80072,Grown Ups 2,Bad
+25084,Get Smart,Good
+60089,Something's Gotta Give,Good
+91759,Shutter Island,Best
+24263,Four Christmases,Bad
+23528,Robots,Good
+78119,Face/Off,Good
+30686,Bedtime Stories,Bad
+67645,Road to Perdition,Best
+13635,Just Go with It,Good
+27498,Con Air,Good
+75728,Eagle Eye,Good
+47372,Cold Mountain,Good
+69029,The Book of Eli,Good
+70274,Flubber,Bad
+81451,The Haunting,Bad
+12563,Space Jam,Good
+23051,The Pink Panther,Bad
+20140,The Day the Earth Stood Still,Bad
+12352,Conspiracy Theory,Good
+55980,Fury,Best
+67287,Six Days Seven Nights,Bad
+82528,Yogi Bear,Bad
+15573,Spirit: Stallion of the Cimarron,Best
+24401,Zookeeper,Bad
+14502,Lost in Space,Bad
+95416,The Manchurian Candidate,Good
+47815,Déjà Vu,Best
+73477,Hotel Transylvania 2,Good
+64277,Fantasia 2000,Best
+22131,The Time Machine,Bad
+56970,Mighty Joe Young,Bad
+48948,Swordfish,Good
+18086,The Legend of Zorro,Bad
+98189,What Dreams May Come,Good
+28757,Little Nicky,Bad
+28234,The Brothers Grimm,Bad
+68396,Mars Attacks!,Good
+21096,Évolution,Good
+32395,The Edge,Good
+44729,Surrogates,Bad
+89245,Thirteen Days,Good
+50615,Daylight,Bad
+92451,Walking With Dinosaurs,Bad
+41483,Battlefield Earth,Bad
+50290,Looney Tunes: Back in Action,Bad
+57217,Nine,Bad
+54371,Timeline,Bad
+83719,The Postman,Good
+73611,Babe: Pig in the City,Bad
+40545,The Last Witch Hunter,Bad
+65494,Red Planet,Bad
+67331,Arthur et les Minimoys,Good
+41556,Oceans,Best
+59951,A Sound of Thunder,Bad
+16972,Pompeii,Bad
+82133,Don Gato: El inicio de la pandilla,Bad
+33405,A Beautiful Mind,Best
+31074,The Lion King,Best
+85246,Journey 2: The Mysterious Island,Bad
+24138,Cloudy with a Chance of Meatballs 2,Good
+41000,Red Dragon,Good
+45939,Hidalgo,Good
+63139,Jack and Jill,Bad
